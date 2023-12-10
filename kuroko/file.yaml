@@ -1,10 +1,31 @@
 msubtitles:
-  - source: https://raw.githubusercontent.com/FabianAr240/nam/kuroko
-    subtitles:
+  - source: https://raw.githubusercontent.com/FabianAr240/nam/main/kuroko
+    subtitles: 
       - season: 1
         items:
+          - path: kuroko/[SubtitleTools.com] [CR][LAT] Kuroko's Basketball - S01E01 - I Am Kuroko.srt
+            episode: 1
           - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E02 - I'm Serious.srt
             episode: 2
           - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E03 - It's Better If I Can't Win.srt
             episode: 3
-  -...         
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E04 - Take Care of the Counter Attack.srt
+            episode: 4
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E05 - Your Basketball.srt
+            episode: 5
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E06 - Let Me Tell You Two Things.srt
+            episode: 6
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E07 - You'll See Something Amazing.srt
+            episode: 7
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E08 - Now That I Think About It.srt
+            episode: 8
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E09 - To Win.srt
+            episode: 9
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E10 - I Can't Have That.srt
+            episode: 10
+          - path: 01/Dragon.Ball.1986.S01E11.en.srt
+            episode: 11
+          - path: 01/Dragon.Ball.1986.S01E12.en.srt
+            episode: 12
+          - path: 01/Dragon.Ball.1986.S01E13.en.srt
+            episode: 13
