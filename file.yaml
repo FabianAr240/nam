@@ -1,5 +1,5 @@
 msubtitles:
-  - source: https://raw.githubusercontent.com/FabianAr240/nam/kuroko
+  - source: https://raw.githubusercontent.com/FabianAr240/nam/main/kuroko
     subtitles:
       - season: 1
         items:
@@ -7,4 +7,3 @@ msubtitles:
             episode: 2
           - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E03 - It's Better If I Can't Win.srt
             episode: 3
-  -...         
