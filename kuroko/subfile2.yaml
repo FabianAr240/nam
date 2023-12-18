@@ -1,10 +1,29 @@
 msubtitles:
-  - source: https://raw.githubusercontent.com/FabianAr240/nam/kuroko
-    subtitles:
+  - source: https://raw.githubusercontent.com/FabianAr240/nam/main/
+    subtitles: 
       - season: 1
         items:
-          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E02 - I'm Serious.srt
-            episode: 2
-          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E03 - It's Better If I Can't Win.srt
-            episode: 3
-  -...         
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E14 - You Look Just Like Him.srt
+            episode: 14
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E15 - Don't Make Me Laugh.srt
+            episode: 15
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E16 - Let's Go.srt
+            episode: 16
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E17 - You're All Ridiculous.srt
+            episode: 17
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E18 - No.srt
+            episode: 18
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E19 - On to a New Challenge.srt
+            episode: 19
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E20 - I Don't Want to Be.srt
+            episode: 20
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E21 - Let's Get Started.srt
+            episode: 21
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E22 - I'll Win Even If It Kills Me.srt
+            episode: 22
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E23 - I'm Not Mature.srt
+            episode: 23
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E24 - Don't Get the Wrong Idea.srt
+            episode: 24
+          - path: kuroko/[CR][LAT] Kuroko's Basketball - S01E25 - Our Basketball.srt
+            episode: 25
