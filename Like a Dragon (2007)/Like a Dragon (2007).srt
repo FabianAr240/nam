@@ -12,7 +12,7 @@
 
 4
 00:02:06,120 --> 00:02:10,130
-¿Qué estás mirando?
+Que estas mirando?
 
 5
 00:02:10,130 --> 00:02:12,130
@@ -24,7 +24,7 @@ Te he visto mirarme
 
 7
 00:02:14,130 --> 00:02:18,130
-¿No puede venir un yakuza a esta tienda?
+No puede venir un yakuza a esta tienda?
 
 8
 00:02:18,130 --> 00:02:22,130
@@ -32,35 +32,35 @@ No he dicho eso
 
 9
 00:02:23,140 --> 00:02:27,130
-¿No puede un yakuza comer unos cacahuetes?
+No puede un yakuza comer unos cacahuetes?
 
 10
 00:02:28,140 --> 00:02:32,140
-¡No he dicho nada!
+No he dicho nada!
 
 11
 00:02:35,150 --> 00:02:39,150
-¿Diga?
+Diga?
 
 12
 00:02:39,150 --> 00:02:42,160
-Sí
+Si
 
 13
 00:02:42,160 --> 00:02:45,160
-¿En serio? Sí, entiendo
+En serio? Si, entiendo
 
 14
 00:02:45,160 --> 00:02:49,150
-Sí
+Si
 
 15
 00:02:50,170 --> 00:02:54,160
-¿Cuánto es?
+Cuanto es?
 
 16
 00:02:55,170 --> 00:02:59,160
-1303 bucks.
+1303 yen.
 
 17
 00:03:00,240 --> 00:03:04,180
@@ -68,15 +68,15 @@ Dame el recibo
 
 18
 00:03:09,180 --> 00:03:12,190
-¡Las manos en la cabeza, gilipollas!
+Las manos en la cabeza, idiotas!
 
 19
 00:03:12,190 --> 00:03:14,290
-¡No te muevas!
+No te muevas!
 
 20
 00:03:14,290 --> 00:03:17,190
-¡Esto es un banco! ¿Por qué no hay dinero?
+Esto es un banco! ¿Por que no hay dinero?
 
 21
 00:03:17,190 --> 00:03:19,190
@@ -88,7 +88,7 @@ No hay dinero
 
 23
 00:03:21,200 --> 00:03:23,200
-¡Cállate!
+Callate!
 
 24
 00:03:23,200 --> 00:03:25,200
@@ -96,33 +96,33 @@ Voy a disparar a alguien
 
 25
 00:03:25,200 --> 00:03:27,200
-Dispara tú Imanishi
+Dispara tu Imanishi
 
 26
 00:03:27,200 --> 00:03:29,200
-No quiero Nakanishi, ¿y si lo hago mal?
+No quiero Nakanishi, y si lo hago mal?
 
 27
 00:03:29,200 --> 00:03:31,210
-Yo tampoco ¡Sólo hazlo!
+Yo tampoco Solo hazlo!
 
 28
 00:03:31,210 --> 00:03:33,210
-¡Yo tampoco!
+Yo tampoco!
 
 29
 00:03:33,210 --> 00:03:35,210
-¡Tienes que escucharme!
+Tienes que escucharme!
 
 30
 00:03:35,210 --> 00:03:37,210
-¡Hazlo si eres un hombre!
-¡Rápido, dispara!
+Hazlo si eres un hombre!
+Rapido, dispara!
 
 31
 00:03:37,210 --> 00:03:39,280
-¡Hazlo, rápido!
-¡Tienes que creerme!
+Hazlo, rapido!
+Tienes que creerme!
 
 32
 00:03:39,280 --> 00:03:41,220
@@ -131,39 +131,39 @@ No.
 
 33
 00:03:41,220 --> 00:03:43,220
-¡Tom! ¡Nakanishi!
+Tom! Nakanishi!
 
 34
 00:03:43,220 --> 00:03:45,320
-¡Dispara, rápido!
+Dispara, rapido!
 
 35
 00:03:45,320 --> 00:03:47,220
-¡Sólo dispara!
+Solo dispara!
 
 36
 00:03:47,220 --> 00:03:49,220
-¡Dispara!
+Dispara!
 
 37
 00:03:49,220 --> 00:03:53,220
-¡Qué dispares joder!
+Que dispares joder!
 
 38
 00:03:57,230 --> 00:03:59,230
-Déjenme pasar...
+Dejenme pasar...
 
 39
 00:03:59,230 --> 00:04:03,230
-Apártese...
+Apartese...
 
 40
 00:04:29,260 --> 00:04:31,270
-Mr Li
+Date-san
 
 41
 00:04:31,270 --> 00:04:34,270
-¿Qué haces aquí?
+Que haces aqui?
 
 42
 00:04:34,270 --> 00:04:37,270
@@ -171,11 +171,11 @@ Esto no es asunto tuyo
 
 43
 00:04:37,270 --> 00:04:39,270
-Es hora de enseñarte unas cuantas cosas
+Es hora de ensenarte unas cuantas cosas
 
 44
 00:04:39,270 --> 00:04:43,280
-Esta es la situación,
+Esta es la situacion,
 un grupo de dos.
 
 45
@@ -184,8 +184,8 @@ Sus nombres son Imanishi y Nakanishi.
 
 46
 00:04:45,280 --> 00:04:48,280
-¿Qué es esto?
-¿Pequeños gamberros?
+Que es esto?
+Pequenos gamberros?
 
 47
 00:04:48,280 --> 00:04:50,290
@@ -193,16 +193,16 @@ Echa un vistazo
 
 48
 00:04:50,290 --> 00:04:53,290
-Parece que todavía se están gritando.
+Parece que todavia se estan gritando.
 
 49
 00:04:53,290 --> 00:04:57,290
-Qué locura joder
+Que locura joder
 
 50
 00:04:57,290 --> 00:05:00,360
 Cuando entraron,
-¿Cuánto dinero tenía el banco?
+Cuanto dinero tenia el banco?
 
 51
 00:05:00,360 --> 00:05:03,300
@@ -210,7 +210,7 @@ Pues...
 
 52
 00:05:03,300 --> 00:05:05,300
-¿Qué pasa?
+Que pasa?
 
 53
 00:05:05,300 --> 00:05:09,300
@@ -218,7 +218,7 @@ Creo que el banco no tiene dinero
 
 54
 00:05:09,300 --> 00:05:12,310
-¿Estás de coña?
+Estas de cona?
 
 55
 00:05:12,310 --> 00:05:14,310
@@ -226,15 +226,15 @@ Lo siento
 
 56
 00:05:14,310 --> 00:05:16,310
-Perdón, déjenme pasar
+Perdon, dejenme pasar
 
 57
 00:05:16,310 --> 00:05:20,320
-Perdón
+Perdon
 
 58
 00:05:20,320 --> 00:05:22,320
-¿Té?, gracias.
+Te?, gracias.
 
 59
 00:05:22,320 --> 00:05:25,320
@@ -242,11 +242,11 @@ Gracias.
 
 60
 00:05:25,320 --> 00:05:29,320
-¿Puede subir el aire acondicionado por favor?
+Puede subir el aire acondicionado por favor?
 
 61
 00:05:29,320 --> 00:05:33,320
-Ya está a tope.
+Ya esta a tope.
 
 62
 00:05:48,380 --> 00:05:50,380
@@ -254,29 +254,29 @@ Se ha roto...
 
 63
 00:05:50,380 --> 00:05:52,350
-Rápido, ¡dispara!
+Rapido, dispara!
 
 64
 00:05:52,350 --> 00:05:54,350
-¡Dispara tú!
+Dispara tu!
 
 65
 00:05:54,350 --> 00:05:57,350
-¡Dispara!
+Dispara!
 
 66
 00:05:57,350 --> 00:05:59,350
-¿Qué haces?
-¡Rápido!
+Que haces?
+Rapido!
 
 67
 00:05:59,350 --> 00:06:01,360
-¡Imanishi!
--¡Nakanishi!
+Imanishi!
+-Nakanishi!
 
 68
 00:06:01,360 --> 00:06:04,360
-¡Dispara!
+Dispara!
 
 69
 00:06:04,360 --> 00:06:08,350
@@ -284,20 +284,20 @@ Mierda
 
 70
 00:06:11,370 --> 00:06:15,360
-¿Qué ha pasado?
+Que ha pasado?
 
 71
 00:06:24,480 --> 00:06:26,480
-¡Apártese!
+Apartese!
 
 72
 00:06:26,480 --> 00:06:28,480
-¿Has salido del trabajo?
-Sí
+Has salido del trabajo?
+Si
 
 73
 00:06:28,480 --> 00:06:30,490
-Yo también, ¿comemos algo?
+Yo tambien, comemos algo?
 
 74
 00:06:30,490 --> 00:06:32,490
@@ -305,24 +305,24 @@ Vamos.
 
 75
 00:06:32,490 --> 00:06:35,490
-¡Mierda! Tengo que arreglar mi reloj
+Mierda! Tengo que arreglar mi reloj
 
 76
 00:06:35,490 --> 00:06:37,490
-¿Qué?
+Que?
 
 77
 00:06:37,490 --> 00:06:39,490
-La batería de mi reloj se ha acabado
+La bateria de mi reloj se ha acabado
 
 78
 00:06:39,490 --> 00:06:41,500
-¡No pasa nada!
+No pasa nada!
 Tengo una de repuesto
 
 79
 00:06:41,500 --> 00:06:44,500
-¡Joder! Estos no son falsificaciones
+Joder! Estos no son falsificaciones
 
 80
 00:06:44,500 --> 00:06:46,500
@@ -334,7 +334,7 @@ OK
 
 82
 00:07:20,440 --> 00:07:24,440
-¿Puedo ayudarle en algo?
+Puedo ayudarle en algo?
 
 83
 00:07:24,440 --> 00:07:28,440
@@ -342,11 +342,11 @@ No
 
 84
 00:07:28,440 --> 00:07:32,440
-¡Imbécil!
+Imbecil!
 
 85
 00:07:35,450 --> 00:07:39,440
-¡Cogedle!
+Cogedle!
 
 86
 00:07:53,470 --> 00:07:57,460
@@ -362,7 +362,7 @@ Salud...
 
 89
 00:08:19,490 --> 00:08:21,500
-¿Quién es?
+Quien es?
 
 90
 00:08:21,500 --> 00:08:25,490
@@ -370,11 +370,11 @@ Es uno de los hombres de Kazama
 
 91
 00:08:27,500 --> 00:08:31,500
-Hola, ¿estás bien?
+Hola, estas bien?
 
 92
 00:08:32,510 --> 00:08:35,510
-¿Por qué está aquí?
+Por que esta aqui?
 
 93
 00:08:35,510 --> 00:08:37,510
@@ -382,11 +382,11 @@ No se lo he preguntado
 
 94
 00:08:37,510 --> 00:08:41,510
-Por ahora, simplemente déjale aquí
+Por ahora, simplemente dejale aqui
 
 95
 00:09:24,560 --> 00:09:27,560
-Es peligroso ¡Corred!
+Es peligroso, Corred!
 
 96
 00:09:27,560 --> 00:09:31,560
@@ -394,11 +394,11 @@ Peligroso...
 
 97
 00:10:25,620 --> 00:10:29,610
-¿Estás bien?
+Estas bien?
 
 98
 00:10:40,640 --> 00:10:44,630
-Sólo nos vamos
+Solo nos vamos
 
 99
 00:10:47,640 --> 00:10:50,650
@@ -410,7 +410,7 @@ No... es que...
 
 101
 00:10:53,650 --> 00:10:57,650
-¿Qué estaba buscando?
+Que estaba buscando?
 
 102
 00:10:57,650 --> 00:11:01,650
@@ -422,11 +422,11 @@ La temperatura de Tokio es ahora de 31,2 grados.
 
 104
 00:11:23,680 --> 00:11:27,680
-La temperatura récord en toda la historia
+La temperatura record en toda la historia
 
 105
 00:11:27,680 --> 00:11:31,690
-está por venir.
+esta por venir.
 
 106
 00:11:31,690 --> 00:11:34,690
@@ -442,11 +442,11 @@ Los atracadores...
 
 109
 00:11:52,710 --> 00:11:56,700
-están silenciosos
+estan silenciosos
 
 110
 00:11:59,710 --> 00:12:02,720
-¿Cuál es el nombre del banco?
+Cual es el nombre del banco?
 
 111
 00:12:02,720 --> 00:12:06,720
@@ -458,20 +458,20 @@ Majima-san, en vez de mirar el banco,
 
 113
 00:12:08,720 --> 00:12:12,730
-¿por qué no miramos a los clientes?
+por que no miramos a los clientes?
 
 114
 00:12:12,730 --> 00:12:16,730
-¿Por qué?
+Por que?
 
 115
 00:12:16,730 --> 00:12:18,730
-¡No seas tan impaciente!
+No seas tan impaciente!
 
 116
 00:12:18,730 --> 00:12:21,740
-¿Nunca lees sobre la economía
-de Japón en el periódico?
+Nunca lees sobre la economia
+de Japon en el periodico?
 
 117
 00:12:21,740 --> 00:12:23,740
@@ -479,8 +479,8 @@ No mucho...
 
 118
 00:12:23,740 --> 00:12:27,730
-El yakuza más rico de Tokyo tiene
-una pequeña fortuna de...
+El yakuza mas rico de Tokyo tiene
+una pequena fortuna de...
 
 119
 00:12:30,750 --> 00:12:32,750
@@ -496,7 +496,7 @@ Es muy peligroso
 
 122
 00:12:58,770 --> 00:13:00,840
-¡Vamos!
+Vamos!
 
 123
 00:13:00,840 --> 00:13:03,780
@@ -508,35 +508,35 @@ Es que...
 
 125
 00:13:08,780 --> 00:13:11,790
-¿Sí?
+Si?
 
 126
 00:13:11,790 --> 00:13:15,780
-Alzad la mano si sabéis algo...
+Alzad la mano si sabeis algo...
 
 127
 00:13:21,800 --> 00:13:23,800
-¡Inútiles de mierda!
+¡Inutiles de mierda!
 
 128
 00:13:23,800 --> 00:13:27,790
-He oído que Kiryu podría estar involucrado
+He oido que Kiryu podria estar involucrado
 
 129
 00:13:30,810 --> 00:13:32,810
-¿Kiryu?
+Kiryu?
 
 130
 00:13:32,810 --> 00:13:35,810
-Eso parece, salió ayer
+Eso parece, salio ayer
 
 131
 00:13:35,810 --> 00:13:37,810
-¿En serio?
+En serio?
 
 132
 00:13:37,810 --> 00:13:40,820
-¿Dónde te has enterado de eso?
+Donde te has enterado de eso?
 
 133
 00:13:40,820 --> 00:13:42,820
@@ -556,19 +556,19 @@ Gracias
 
 137
 00:13:48,820 --> 00:13:52,820
-¿Quién te lo dijo exactamente?
+Quien te lo dijo exactamente?
 
 138
 00:13:55,830 --> 00:13:59,820
-Sólo son rumores
+Solo son rumores
 
 139
 00:14:04,840 --> 00:14:08,840
-Eh, ¡no te mueras!
+Eh, no te mueras!
 
 140
 00:14:08,840 --> 00:14:11,850
-Tú, ¡sigue pegandole!
+Tu, sigue pegandole!
 
 141
 00:14:11,850 --> 00:14:15,840
@@ -576,19 +576,19 @@ Nos vamos
 
 142
 00:14:25,860 --> 00:14:29,850
-Para tí
+Para ti
 
 143
 00:14:35,870 --> 00:14:38,870
-¿Qué es esto?
+Que es esto?
 
 144
 00:14:38,870 --> 00:14:41,880
-Lo cogí en la tienda
+Lo cogi en la tienda
 
 145
 00:14:41,880 --> 00:14:45,870
-Además, necesito una radio nueva...
+Ademas, necesito una radio nueva...
 
 146
 00:14:46,880 --> 00:14:50,890
@@ -600,17 +600,17 @@ Lo voy a devolver
 
 148
 00:14:52,890 --> 00:14:55,890
-¿Por qué? Lo hemos robado,
-¿y ahora quieres devolverlo?
+Por que? Lo hemos robado,
+y ahora quieres devolverlo?
 
 149
 00:14:55,890 --> 00:14:58,890
 Ni hablar.
-Nos podrían haber cogido
+Nos podrian haber cogido
 
 150
 00:14:58,890 --> 00:15:01,900
-Yo no lo robé
+Yo no lo robe
 
 151
 00:15:01,900 --> 00:15:04,900
@@ -618,11 +618,11 @@ Piensa en ello
 
 152
 00:15:04,900 --> 00:15:08,890
-¿Qué?
+Que?
 
 153
 00:15:09,900 --> 00:15:13,900
-Ha sido tan sencillo. Podríamos
+Ha sido tan sencillo. Podriamos
 hacer mucho dinero
 
 154
@@ -631,16 +631,16 @@ Vamos a ser ladrones
 
 155
 00:15:17,910 --> 00:15:21,920
-¿Por qué íbamos a hacer esto?
+Por que ibamos a hacer esto?
 
 156
 00:15:21,920 --> 00:15:24,920
-Porque todos los días son tan
+Porque todos los dias son tan
 calurosos como hoy
 
 157
 00:15:24,920 --> 00:15:26,920
-¡Esa no es una razón!
+Esa no es una razon!
 
 158
 00:15:26,920 --> 00:15:29,920
@@ -652,11 +652,11 @@ Tengo un arma
 
 160
 00:15:31,930 --> 00:15:33,930
-Qué...
+Que...
 
 161
 00:15:33,930 --> 00:15:37,920
-Ábrelo
+Abrelo
 
 162
 00:15:39,930 --> 00:15:43,930
@@ -664,7 +664,7 @@ Joder
 
 163
 00:15:44,940 --> 00:15:46,940
-Escúchame
+Escuchame
 
 164
 00:15:46,940 --> 00:15:49,940
@@ -680,15 +680,15 @@ No si tenemos cuidado
 
 167
 00:16:01,020 --> 00:16:04,960
-¿Dónde está?
+Donde esta?
 
 168
 00:16:06,960 --> 00:16:09,960
-¿Dónde está el dinero?
+Donde esta el dinero?
 
 169
 00:16:09,960 --> 00:16:12,970
-¿Queréis morir?
+Quereis morir?
 
 170
 00:16:12,970 --> 00:16:15,970
@@ -697,40 +697,40 @@ que no hagas eso.
 
 171
 00:16:15,970 --> 00:16:17,970
-¿Por qué me mandas, Imanishi?
+Por que me mandas, Imanishi?
 
 172
 00:16:17,970 --> 00:16:19,970
-¡No me des órdenes!
+No me des ordenes!
 
 173
 00:16:19,970 --> 00:16:22,980
-¡Tío, aquí no hay dinero!
+Tio, aqui no hay dinero!
 
 174
 00:16:22,980 --> 00:16:24,980
-No seas estúpido, Imanishi.
+No seas estupido, Imanishi.
 
 175
 00:16:24,980 --> 00:16:26,980
 Hace tanto calor.
-Qué molesto joder
+Que molesto joder
 
 176
 00:16:26,980 --> 00:16:28,980
-¡Cállate!
+Callate!
 
 177
 00:16:28,980 --> 00:16:30,990
-¡Aparta las manos!
+Aparta las manos!
 
 178
 00:16:30,990 --> 00:16:32,990
-¡Quita la puta mano y cállate!
+Quita la puta mano y callate!
 
 179
 00:16:32,990 --> 00:16:34,990
-¿Dónde está el jodido dinero?
+Donde esta el jodido dinero?
 
 180
 00:16:34,990 --> 00:16:36,990
@@ -738,7 +738,7 @@ Ya veo
 
 181
 00:16:36,990 --> 00:16:38,990
-¿De veras? Avaricioso...
+De veras? Avaricioso...
 
 182
 00:16:38,990 --> 00:16:41,000
@@ -746,11 +746,11 @@ Gracias, eres de gran ayuda
 
 183
 00:16:41,000 --> 00:16:45,000
-Te debo una, adiós
+Te debo una, adios
 
 184
 00:16:45,000 --> 00:16:47,000
-¿Cómo lo perdiste?
+Como lo perdiste?
 
 185
 00:16:47,000 --> 00:16:49,000
@@ -758,15 +758,15 @@ La mitad del dinero...
 
 186
 00:16:49,000 --> 00:16:51,010
-¿Eran ahorros de los Yakuza?
+Eran ahorros de los Yakuza?
 
 187
 00:16:51,010 --> 00:16:53,010
-No lo sé, había 10 billones
+No lo se, habia 10 billones
 
 188
 00:16:53,010 --> 00:16:55,010
-¿10 billones?
+10 billones?
 
 189
 00:16:55,010 --> 00:16:57,010
@@ -775,12 +775,12 @@ lugares
 
 190
 00:16:57,010 --> 00:17:00,010
-Cada céntimo es robado
+Cada centimo es robado
 
 191
 00:17:00,010 --> 00:17:04,020
-¿Es el banco capaz de reunir tanto dinero
-tan rápidamente?
+Es el banco capaz de reunir tanto dinero
+tan rapidamente?
 
 192
 00:17:04,020 --> 00:17:07,020
@@ -789,7 +789,7 @@ de tiendas de Tokio
 
 193
 00:17:07,020 --> 00:17:10,020
-Incluídas tiendas pequeñas
+Incluidas tiendas pequenas
 
 194
 00:17:10,020 --> 00:17:12,060
@@ -801,24 +801,24 @@ Por eso no hay dinero en el banco
 
 196
 00:17:14,060 --> 00:17:16,030
-¡Lo que dices no tiene sentido!
+Lo que dices no tiene sentido!
 
 197
 00:17:16,030 --> 00:17:18,030
-¿Por qué mentiste sobre la otra mitad?
+Por que mentiste sobre la otra mitad?
 
 198
 00:17:18,030 --> 00:17:20,030
-¿Siempre ha habido incertidumbres
+Siempre ha habido incertidumbres
 sobre el dinero eh?
 
 199
 00:17:20,030 --> 00:17:22,040
-¿Incertidumbres?
+Incertidumbres?
 
 200
 00:17:22,040 --> 00:17:24,040
-¡Tiempo de prácticas!
+Tiempo de practicas!
 Todos a las calles a buscar
 
 201
@@ -827,23 +827,23 @@ Espera
 
 202
 00:17:27,040 --> 00:17:30,040
-¿Y si todo el dinero está todavía en el banco?
+Y si todo el dinero esta todavia en el banco?
 
 203
 00:17:30,040 --> 00:17:33,050
-¿Qué deberíamos hacer?
+Que deberiamos hacer?
 
 204
 00:17:33,050 --> 00:17:35,050
-Entonces todo se descontrolaría
+Entonces todo se descontrolaria
 
 205
 00:17:35,050 --> 00:17:37,050
-No está en el banco
+No esta en el banco
 
 206
 00:17:37,050 --> 00:17:39,050
-Gracias por el té
+Gracias por el te
 
 207
 00:17:39,050 --> 00:17:43,050
@@ -851,19 +851,19 @@ De nada
 
 208
 00:17:49,060 --> 00:17:53,060
-Toma, come más
+Toma, come mas
 
 209
 00:17:54,070 --> 00:17:57,070
-¿Está rico?
+Esta rico?
 
 210
 00:17:57,070 --> 00:18:00,070
-Qué bien
+Que bien
 
 211
 00:18:00,070 --> 00:18:02,080
-Gracias, tío
+Gracias, tio
 
 212
 00:18:02,080 --> 00:18:05,080
@@ -871,27 +871,27 @@ Vamos
 
 213
 00:18:05,080 --> 00:18:09,070
-¿Dónde?
+Donde?
 
 214
 00:18:11,090 --> 00:18:15,080
-¿Y él?
+Y el?
 
 215
 00:18:21,100 --> 00:18:25,090
-Adiós
+Adios
 
 216
 00:18:50,120 --> 00:18:54,120
-Ya está todo hecho
+Ya esta todo hecho
 
 217
 00:19:01,200 --> 00:19:05,140
-¿Qué es lo que pasa contigo?
+Que es lo que pasa contigo?
 
 218
 00:19:11,150 --> 00:19:14,150
-¿Qué buscas?
+Que buscas?
 
 219
 00:19:14,150 --> 00:19:16,150
@@ -899,7 +899,7 @@ Eh jefe
 
 220
 00:19:16,150 --> 00:19:19,150
-Jefe... ¿ Qué es lo que le pasa?
+Jefe...  Que es lo que le pasa?
 
 221
 00:19:19,150 --> 00:19:21,160
@@ -907,7 +907,7 @@ Es uno de los hombres de Kazama
 
 222
 00:19:21,160 --> 00:19:25,150
-¿En serio?
+En serio?
 
 223
 00:20:05,300 --> 00:20:09,290
@@ -919,16 +919,16 @@ Excelente
 
 225
 00:20:30,220 --> 00:20:32,230
-Rápido
+Rapido
 
 226
 00:20:32,230 --> 00:20:34,230
-¡Satoru!
+Satoru!
 -Ok.
 
 227
 00:20:34,230 --> 00:20:37,230
-¡Idiota! No digas mi nombre
+Idiota! No digas mi nombre
 
 228
 00:20:37,230 --> 00:20:39,230
@@ -940,7 +940,7 @@ Vamos
 
 230
 00:20:43,240 --> 00:20:47,230
-¡Que te muevas!
+Que te muevas!
 
 231
 00:20:50,240 --> 00:20:52,250
@@ -948,7 +948,7 @@ Corre
 
 232
 00:20:52,250 --> 00:20:56,250
-¡No puedo!
+No puedo!
 
 233
 00:21:13,270 --> 00:21:17,260
@@ -956,7 +956,7 @@ Hace demasiado calor
 
 234
 00:21:19,270 --> 00:21:23,270
-Qué calor
+Que calor
 
 235
 00:21:24,280 --> 00:21:28,270
@@ -968,15 +968,15 @@ Yumi...
 
 237
 00:21:38,290 --> 00:21:42,300
-¿Qué?
+Que?
 
 238
 00:21:42,300 --> 00:21:46,290
-¿Para qué necesitas el dinero?
+Para que necesitas el dinero?
 
 239
 00:22:00,310 --> 00:22:02,320
-¡Vamos!
+Vamos!
 
 240
 00:22:02,320 --> 00:22:06,320
@@ -984,7 +984,7 @@ Vamos
 
 241
 00:22:06,320 --> 00:22:10,310
-¿Qué es lo que pasa contigo?
+Que es lo que pasa contigo?
 
 242
 00:22:13,330 --> 00:22:17,320
@@ -1000,11 +1000,11 @@ Kiryu-chan
 
 245
 00:22:30,340 --> 00:22:34,350
-¿Alguien ha visto a Kiryu-chan?
+Alguien ha visto a Kiryu-chan?
 
 246
 00:22:34,350 --> 00:22:38,340
-¡Ve!
+Ve!
 
 247
 00:22:39,350 --> 00:22:43,350
@@ -1020,19 +1020,19 @@ Kiryu-chan
 
 250
 00:23:21,400 --> 00:23:24,400
-¡Gilipollas!
+Gilipollas!
 
 251
 00:23:24,400 --> 00:23:26,500
-¡Hijo de puta!
+Hijo de puta!
 
 252
 00:23:26,500 --> 00:23:30,490
-¿Quién te crees que eres?
+Quien te crees que eres?
 
 253
 00:23:39,410 --> 00:23:41,420
-Tío
+Tio
 
 254
 00:23:41,420 --> 00:23:45,410
@@ -1057,7 +1057,7 @@ Todo perfecto por ahora
 
 259
 00:24:22,490 --> 00:24:26,480
-Majima, ¡estás muerto!
+Majima, estas muerto!
 
 260
 00:25:20,510 --> 00:25:24,510
@@ -1065,7 +1065,7 @@ Hola Majima
 
 261
 00:25:25,550 --> 00:25:29,560
-¿Dónde está Kiryu?
+Donde esta Kiryu?
 
 262
 00:25:29,560 --> 00:25:33,550
@@ -1077,7 +1077,7 @@ Hola Majima
 
 264
 00:25:46,640 --> 00:25:49,640
-¿Dónde está?
+Donde esta?
 
 265
 00:25:49,640 --> 00:25:53,650
@@ -1085,7 +1085,7 @@ Por favor...
 
 266
 00:25:53,650 --> 00:25:56,650
-¿Dónde está?
+Donde esta?
 
 267
 00:25:56,650 --> 00:26:00,640
@@ -1097,23 +1097,23 @@ Por favor...
 
 269
 00:26:21,580 --> 00:26:25,570
-¿Dónde?
+Donde?
 
 270
 00:26:44,600 --> 00:26:48,590
-Kiryu está en el distrito Norte
+Kiryu esta en el distrito Norte
 
 271
 00:26:49,600 --> 00:26:53,600
-¿Es que tus hombres no saben nada?
+Es que tus hombres no saben nada?
 
 272
 00:26:55,610 --> 00:26:59,600
-¿Alguien más lo sabe?
+Alguien mas lo sabe?
 
 273
 00:27:01,680 --> 00:27:05,620
-Gracias, ¿estás herido?
+Gracias, estas herido?
 
 274
 00:27:06,620 --> 00:27:10,610
@@ -1125,15 +1125,15 @@ Me voy a llevar un regalo
 
 276
 00:27:57,670 --> 00:28:01,730
-¿Todavía estáis peleando?
+Todavia estais peleando?
 
 277
 00:28:18,790 --> 00:28:22,790
-Kiryu no está aquí
+Kiryu no esta aqui
 
 278
 00:28:23,800 --> 00:28:27,800
-Está en el distrito Norte
+Esta en el distrito Norte
 
 279
 00:28:27,800 --> 00:28:29,800
@@ -1149,7 +1149,7 @@ Si...
 
 282
 00:29:09,810 --> 00:29:13,800
-Siempre estás en el medio
+Siempre estas en el medio
 
 283
 00:29:21,820 --> 00:29:25,810
@@ -1165,11 +1165,11 @@ No es mi culpa
 
 286
 00:29:38,770 --> 00:29:42,770
-Él era el que me seguía
+El era el que me seguia
 
 287
 00:29:51,790 --> 00:29:53,790
-¿Quién eres?
+Quien eres?
 
 288
 00:29:53,790 --> 00:29:57,780
@@ -1181,28 +1181,28 @@ Date...
 
 290
 00:30:01,800 --> 00:30:04,800
-No he traído ningún arma
+No he traido ningun arma
 
 291
 00:30:04,800 --> 00:30:07,800
-Recuerdo el incidente, hace 10 años...
+Recuerdo el incidente, hace 10 anos...
 
 292
 00:30:07,800 --> 00:30:11,810
 Mi mujer estaba llevando
-nuestro niño de paseo
+nuestro nino de paseo
 
 293
 00:30:11,810 --> 00:30:15,810
-Parece que estás en forma
+Parece que estas en forma
 
 294
 00:30:15,810 --> 00:30:19,810
-Cuánto tiempo sin vernos
+Cuanto tiempo sin vernos
 
 295
 00:30:19,810 --> 00:30:22,820
-¿Cuándo saliste?
+Cuando saliste?
 
 296
 00:30:22,820 --> 00:30:24,820
@@ -1210,11 +1210,11 @@ Ayer
 
 297
 00:30:24,820 --> 00:30:26,820
-He oído que dejaste la Yakuza
+He oido que dejaste la Yakuza
 
 298
 00:30:26,820 --> 00:30:29,820
-¿Qué vas a hacer ahora?
+Que vas a hacer ahora?
 
 299
 00:30:29,820 --> 00:30:31,830
@@ -1226,32 +1226,32 @@ Han desaparecido 10 billones
 
 301
 00:30:33,830 --> 00:30:35,830
-¿Has oído algo?
+Has oido algo?
 
 302
 00:30:35,830 --> 00:30:39,830
-¿De verdad ya no eres Yakuza?
+De verdad ya no eres Yakuza?
 
 303
 00:30:39,830 --> 00:30:42,840
-Sé que tienes algo que ver...
+Se que tienes algo que ver...
 
 304
 00:30:42,840 --> 00:30:46,830
-Dímelo
+Dimelo
 
 305
 00:30:48,840 --> 00:30:52,840
-Sólo estoy buscando a su madre
+Solo estoy buscando a su madre
 
 306
 00:30:53,850 --> 00:30:55,850
-¿Madre?
+Madre?
 
 307
 00:30:55,850 --> 00:30:59,840
-Creo que su madre está trabajando
-en algun bar por aquí
+Creo que su madre esta trabajando
+en algun bar por aqui
 
 308
 00:31:00,850 --> 00:31:04,850
@@ -1259,12 +1259,12 @@ Quiero ayudarla
 
 309
 00:31:07,860 --> 00:31:11,850
-¿Nombre?
+Nombre?
 
 310
 00:31:13,870 --> 00:31:16,870
 Haruka.
--No te pregunto a tí
+-No te pregunto a ti
 
 311
 00:31:16,870 --> 00:31:18,870
@@ -1280,7 +1280,7 @@ Eres un desconocido
 
 314
 00:31:23,880 --> 00:31:27,870
-Mi tío siempre dice
+Mi tio siempre dice
 que no hable con desconocidos
 
 315
@@ -1289,19 +1289,19 @@ Es una chica dura
 
 316
 00:31:36,890 --> 00:31:40,890
-¿De verdad no sabes nada?
+De verdad no sabes nada?
 
 317
 00:31:40,890 --> 00:31:44,890
-Si supiese, te lo habría dicho
+Si supiese, te lo habria dicho
 
 318
 00:31:46,900 --> 00:31:49,900
-¿Está Kazama bien?
+Esta Kazama bien?
 
 319
 00:31:49,900 --> 00:31:53,910
-¿No le has visto?
+No le has visto?
 
 320
 00:31:53,910 --> 00:31:56,910
@@ -1309,11 +1309,11 @@ No consigo encontrarle
 
 321
 00:31:56,910 --> 00:31:58,910
-¿Está bien?
+Esta bien?
 
 322
 00:31:58,910 --> 00:32:02,910
-No he oído nada de él últimamente
+No he oido nada de el ultimamente
 
 323
 00:32:10,920 --> 00:32:12,930
@@ -1322,7 +1322,7 @@ A causa del calentamiento global,
 324
 00:32:12,930 --> 00:32:15,930
 la temperatura es 3 grados superior
-que hace 10 años
+que hace 10 anos
 
 325
 00:32:15,930 --> 00:32:19,920
@@ -1338,7 +1338,7 @@ Debe ser el calentamiento global...
 
 328
 00:32:36,950 --> 00:32:38,950
-Todo está mal
+Todo esta mal
 
 329
 00:32:38,950 --> 00:32:40,950
@@ -1346,7 +1346,7 @@ Te han partido la cara
 
 330
 00:32:40,950 --> 00:32:44,950
-Tu chaqueta está rota...
+Tu chaqueta esta rota...
 
 331
 00:32:45,960 --> 00:32:47,960
@@ -1362,45 +1362,45 @@ Por favor, ¿me puedo tumbar boca arriba?
 
 334
 00:32:52,970 --> 00:32:55,970
-¡Qué calor!
+Que calor!
 No hables o te disparo
 
 335
 00:32:55,970 --> 00:32:57,970
-Déjame ocuparme, Nakanishi
+Dejame ocuparme, Nakanishi
 
 336
 00:32:57,970 --> 00:33:02,030
-Ok, túmbate
+Ok, tumbate
 
 337
 00:33:11,020 --> 00:33:13,020
-¡Novedades!
+Novedades!
 
 338
 00:33:13,020 --> 00:33:16,020
-Los prisioneros están tumbados
+Los prisioneros estan tumbados
 boca arriba
 
 339
 00:33:16,020 --> 00:33:18,020
-¿Por qué?
+Por que?
 
 340
 00:33:18,020 --> 00:33:21,030
-¿Y?
+Y?
 
 341
 00:33:21,030 --> 00:33:25,020
-¿Y?
+Y?
 
 342
 00:33:26,030 --> 00:33:28,030
-¿Sólo eso?
+Solo eso?
 
 343
 00:33:28,030 --> 00:33:32,030
-Sí
+Si
 
 344
 00:33:34,040 --> 00:33:36,040
@@ -1408,7 +1408,7 @@ No me digas que...
 
 345
 00:33:36,040 --> 00:33:40,040
-...van a ser ejecutados, ¿uno por uno?
+...van a ser ejecutados, uno por uno?
 
 346
 00:33:41,050 --> 00:33:43,050
@@ -1416,7 +1416,7 @@ Tengo un mal presentimiento, vamos
 
 347
 00:33:43,050 --> 00:33:47,050
-¿Qué pasa?
+Que pasa?
 
 348
 00:33:47,050 --> 00:33:51,050
@@ -1428,11 +1428,11 @@ No, ahora estoy trabajando
 
 350
 00:33:57,060 --> 00:33:59,070
-¡Novedades!
+Novedades!
 
 351
 00:33:59,070 --> 00:34:02,100
-Hay muchos cadáveres en las calles
+Hay muchos cadaveres en las calles
 
 352
 00:34:02,100 --> 00:34:04,070
@@ -1440,7 +1440,7 @@ No puedo manejar esto
 
 353
 00:34:04,070 --> 00:34:08,060
-¿Alguien puede ponerse al mando?
+Alguien puede ponerse al mando?
 
 354
 00:34:26,090 --> 00:34:28,090
@@ -1452,19 +1452,19 @@ Por favor
 
 356
 00:34:31,100 --> 00:34:33,100
-Cuánto dinero
+Cuanto dinero
 
 357
 00:34:33,100 --> 00:34:35,100
-¿Tanto?
+Tanto?
 
 358
 00:34:35,100 --> 00:34:39,090
-Qué suerte tenemos
+Que suerte tenemos
 
 359
 00:34:44,110 --> 00:34:46,110
-¡Ve, rápido!
+Ve, rapido!
 
 360
 00:34:46,110 --> 00:34:48,110
@@ -1480,7 +1480,7 @@ Lo he olido una vez
 
 363
 00:34:54,120 --> 00:34:56,120
-Cómpralo con el dinero
+Compralo con el dinero
 
 364
 00:34:56,120 --> 00:35:00,120
@@ -1489,11 +1489,11 @@ usar este dinero
 
 365
 00:35:01,130 --> 00:35:04,130
-Entonces, ¡ábrelo!
+Entonces, abrelo!
 
 366
 00:35:04,130 --> 00:35:07,130
-Dámelo, rápido
+Damelo, rapido
 
 367
 00:35:07,130 --> 00:35:09,140
@@ -1505,15 +1505,15 @@ En serio..
 
 369
 00:35:11,140 --> 00:35:14,110
-¿No hay otra manera?
+No hay otra manera?
 
 370
 00:35:14,110 --> 00:35:18,100
-Aquí. Por aquí
+Aqui. Por aqui
 
 371
 00:35:19,110 --> 00:35:23,110
-¡Qué calor!
+Que calor!
 
 372
 00:35:36,130 --> 00:35:40,130
@@ -1525,7 +1525,7 @@ Mira
 
 374
 00:35:48,140 --> 00:35:52,150
-¿No quieres ir?
+No quieres ir?
 
 375
 00:35:52,150 --> 00:35:54,150
@@ -1534,15 +1534,15 @@ Hay mucho dinero
 376
 00:35:54,150 --> 00:35:57,150
 Creo que 900.000 yenes
--¿900.000?
+-900.000?
 
 377
 00:35:57,150 --> 00:36:01,150
-¿Sólo?
+Solo?
 
 378
 00:36:01,150 --> 00:36:03,160
-¿Cuánto quieres?
+Cuanto quieres?
 
 379
 00:36:03,160 --> 00:36:07,150
@@ -1550,7 +1550,7 @@ Creo que 900.000 yenes
 
 380
 00:36:08,160 --> 00:36:12,150
-¿Por qué quieres tanto?
+Por que quieres tanto?
 
 381
 00:36:13,170 --> 00:36:17,160
@@ -1562,7 +1562,7 @@ Te estoy preguntando...
 
 383
 00:36:20,170 --> 00:36:22,180
-¡Tengo una idea!
+Tengo una idea!
 
 384
 00:36:22,180 --> 00:36:25,180
@@ -1570,19 +1570,19 @@ Vamos a comprar una pistola
 
 385
 00:36:25,180 --> 00:36:29,180
-Estamos más seguros con una pistola
+Estamos mas seguros con una pistola
 
 386
 00:36:29,180 --> 00:36:32,190
-Vamos, ¡rápido!
+Vamos, rapido!
 
 387
 00:36:32,190 --> 00:36:34,190
-¡Rápido!
+Rapido!
 
 388
 00:36:34,190 --> 00:36:38,180
-¡Yumi!
+Yumi!
 
 389
 00:37:10,220 --> 00:37:14,220
@@ -1590,11 +1590,11 @@ Kiryu
 
 390
 00:37:25,240 --> 00:37:29,230
-¿Quiénes son?
+Quienes son?
 
 391
 00:38:01,270 --> 00:38:04,280
-¿Qué sabes sobre Kazama?
+Que sabes sobre Kazama?
 
 392
 00:38:04,280 --> 00:38:06,280
@@ -1606,11 +1606,11 @@ Te quiere muerto
 
 394
 00:38:12,290 --> 00:38:16,290
-¿10 billones?
+10 billones?
 
 395
 00:38:16,290 --> 00:38:20,280
-También he oído que Kazama
+Tambien he oido que Kazama
 quiere encontrarse con Nishiki
 
 396
@@ -1619,7 +1619,7 @@ Ahora es un hombre muy poderoso
 
 397
 00:38:31,300 --> 00:38:35,300
-¿Ha estado Mizuki últimamente por aquí?
+Ha estado Mizuki ultimamente por aqui?
 
 398
 00:38:36,310 --> 00:38:40,310
@@ -1627,17 +1627,17 @@ Es su madre
 
 399
 00:38:40,310 --> 00:38:44,320
-¿Cuándo fue la última vez que
-Mizuki estuvo aquí?
+Cuando fue la ultima vez que
+Mizuki estuvo aqui?
 
 400
 00:38:44,320 --> 00:38:46,320
-¿Solía venir?
+Solia venir?
 Si
 
 401
 00:38:46,320 --> 00:38:50,320
-Estuvo aquí hace un mes
+Estuvo aqui hace un mes
 
 402
 00:38:50,320 --> 00:38:52,330
@@ -1649,8 +1649,8 @@ Hemos mirado en todas partes
 
 404
 00:38:55,330 --> 00:38:58,330
-Lo último que oí fue que llevo a su hija
-a un orfanato y se marchó de la ciudad.
+Lo ultimo que oi fue que llevo a su hija
+a un orfanato y se marcho de la ciudad.
 
 405
 00:38:58,330 --> 00:39:02,390
@@ -1658,8 +1658,8 @@ Ha desaparecido
 
 406
 00:39:12,350 --> 00:39:16,340
-Hace un par de días, Kazama
-me mandó a este tío
+Hace un par de dias, Kazama
+me mando a este tio
 
 407
 00:39:18,350 --> 00:39:20,350
@@ -1671,7 +1671,7 @@ Ni una palabra
 
 409
 00:39:23,360 --> 00:39:27,360
-¡Increíble!
+Increible!
 
 410
 00:39:27,360 --> 00:39:29,360
@@ -1680,20 +1680,20 @@ Perdona por hacerte perder tiempo.
 
 411
 00:39:29,360 --> 00:39:33,360
-Avísame si tienes noticias.
+Avisame si tienes noticias.
 Por supuesto.
 
 412
 00:39:34,370 --> 00:39:38,370
-Esto es para tí
+Esto es para ti
 
 413
 00:39:38,370 --> 00:39:41,370
-Son mejores que hace 10 años
+Son mejores que hace 10 anos
 
 414
 00:39:41,370 --> 00:39:45,370
-Si pasa algo, te contactaré
+Si pasa algo, te contactare
 con esto
 
 415
@@ -1710,11 +1710,11 @@ Gracias
 
 418
 00:39:57,390 --> 00:40:01,380
-Gracias por hacerte cargo de él
+Gracias por hacerte cargo de el
 
 419
 00:40:02,400 --> 00:40:06,400
-Espérame
+Esperame
 
 420
 00:40:06,400 --> 00:40:10,390
@@ -1722,15 +1722,15 @@ Ten cuidado
 
 421
 00:40:15,410 --> 00:40:18,410
-¿Cómo sabes que ha sido Majima?
+¿Como sabes que ha sido Majima?
 
 422
 00:40:18,410 --> 00:40:21,410
-Sólo él utiliza estas pelotas
+Solo el utiliza estas pelotas
 
 423
 00:40:21,410 --> 00:40:23,420
-¿Qué ha dicho el dependiente?
+¿Que ha dicho el dependiente?
 
 424
 00:40:23,420 --> 00:40:26,420
@@ -1746,11 +1746,11 @@ El dependiente sabe algo
 
 427
 00:40:31,420 --> 00:40:34,430
-Dile que hable, o cerraré su tienda
+Dile que hable, o cerrare su tienda
 
 428
 00:40:34,430 --> 00:40:36,430
-¿Puedes pegarle?
+Puedes pegarle?
 
 429
 00:40:36,430 --> 00:40:38,430
@@ -1758,20 +1758,20 @@ No.
 
 430
 00:40:38,430 --> 00:40:40,430
-¡Trabajad más duro!
+Trabajad mas duro!
 
 431
 00:40:40,430 --> 00:40:42,470
-Eso está mal
+Eso esta mal
 
 432
 00:40:42,470 --> 00:40:46,470
-¿Hay alguna conexión entre
+Hay alguna conexion entre
 Nishiki y Majima?
 
 433
 00:40:46,470 --> 00:40:48,470
-¿Está Kiryu todavía por aquí?
+¿Esta Kiryu todavia por aqui?
 
 434
 00:40:48,470 --> 00:40:50,480
@@ -1783,11 +1783,11 @@ Nadie nos puede salvar
 
 436
 00:40:56,480 --> 00:40:58,480
-¡A trabajar!
+A trabajar!
 
 437
 00:40:58,480 --> 00:41:00,490
-Rápido
+Rapido
 
 438
 00:41:00,490 --> 00:41:03,460
@@ -1795,7 +1795,7 @@ De vuelta al trabajo
 
 439
 00:41:03,460 --> 00:41:07,450
-Apártese
+Apartese
 
 440
 00:41:08,560 --> 00:41:12,550
@@ -1803,7 +1803,7 @@ Vamos
 
 441
 00:41:13,470 --> 00:41:17,470
-¿Qué?
+Que?
 
 442
 00:41:17,470 --> 00:41:21,470
@@ -1815,15 +1815,15 @@ Hueles fatal
 
 444
 00:41:24,480 --> 00:41:26,480
-¿Qué haces?
+Que haces?
 
 445
 00:41:26,480 --> 00:41:28,480
-¿Qué haces?
+Que haces?
 
 446
 00:41:28,480 --> 00:41:31,480
-¿Qué pasa?
+Que pasa?
 
 447
 00:41:31,480 --> 00:41:35,480
@@ -1831,7 +1831,7 @@ Idiota
 
 448
 00:41:39,530 --> 00:41:41,490
-¿Esta es...?
+Esta es...?
 
 449
 00:41:41,490 --> 00:41:43,500
@@ -1843,11 +1843,11 @@ Mi amiga
 
 451
 00:41:47,500 --> 00:41:51,500
-¿Cómo es que la conoces?
+Como es que la conoces?
 
 452
 00:41:51,500 --> 00:41:55,510
-¿Tío, tu también la conoces?
+Tio, tu tambien la conoces?
 
 453
 00:41:55,510 --> 00:41:59,510
@@ -1859,7 +1859,7 @@ La hermana de mi madre
 
 455
 00:42:01,510 --> 00:42:03,550
-¿Dónde trabaja ahora?
+Donde trabaja ahora?
 
 456
 00:42:03,550 --> 00:42:07,550
@@ -1867,7 +1867,7 @@ Trabaja en un bar llamado Serena.
 
 457
 00:42:07,550 --> 00:42:11,550
-¿Por qué no me lo habías dicho antes?
+Por que no me lo habias dicho antes?
 
 458
 00:42:12,530 --> 00:42:16,530
@@ -1875,11 +1875,11 @@ No me lo preguntaste
 
 459
 00:42:16,530 --> 00:42:20,530
-Tú...
+Tu...
 
 460
 00:42:20,530 --> 00:42:24,530
-No me hables así, tengo nombre
+No me hables asi, tengo nombre
 
 461
 00:42:44,560 --> 00:42:48,550
@@ -1891,7 +1891,7 @@ No entiendo
 
 463
 00:42:59,570 --> 00:43:01,570
-¿Cómo te llamas?
+Como te llamas?
 
 464
 00:43:01,570 --> 00:43:04,580
@@ -1899,36 +1899,36 @@ Park
 
 465
 00:43:04,580 --> 00:43:08,580
-¿Quieres comer algo?
+Quieres comer algo?
 
 466
 00:43:08,580 --> 00:43:12,570
-Me gustaría tomar algo de alcohol
+Me gustaria tomar algo de alcohol
 
 467
 00:43:14,590 --> 00:43:16,590
-Han pasado 2 días...
+Han pasado 2 dias...
 
 468
 00:43:16,590 --> 00:43:20,580
-¿Qué es lo que pasa?
+Que es lo que pasa?
 
 469
 00:43:21,590 --> 00:43:24,700
-¿Por qué? ¿Estás en problemas?
+Por que? Estas en problemas?
 
 470
 00:43:24,700 --> 00:43:28,690
-Sí
+Si
 
 471
 00:43:33,610 --> 00:43:36,610
 Es mi hermano. Nos parecemos,
-¿verdad?
+verdad?
 
 472
 00:43:36,610 --> 00:43:39,610
-¿Queréis más cerveza?
+Quereis mas cerveza?
 
 473
 00:43:39,610 --> 00:43:43,610
@@ -1940,20 +1940,20 @@ Come
 
 475
 00:43:50,620 --> 00:43:54,620
-Está más rico que la mierda de aquí
+Esta mas rico que la mierda de aqui
 
 476
 00:44:03,640 --> 00:44:07,630
 Quiero ir al lugar para
-buscar una buena posición
+buscar una buena posicion
 
 477
 00:44:08,640 --> 00:44:11,640
-No sé nada de Kazama
+No se nada de Kazama
 
 478
 00:44:11,640 --> 00:44:15,640
-¿Por qué quieres hablar con él?
+Por que quieres hablar con el?
 
 479
 00:44:17,650 --> 00:44:19,650
@@ -1961,11 +1961,11 @@ Porque...
 
 480
 00:44:19,650 --> 00:44:23,650
-Esta operación debe ser mantenida en secreto
+Esta operacion debe ser mantenida en secreto
 
 481
 00:44:25,660 --> 00:44:29,660
-Así que...
+Asi que...
 
 482
 00:44:29,660 --> 00:44:33,660
@@ -1973,7 +1973,7 @@ Vale... pero no es un hombre simple
 
 483
 00:44:46,680 --> 00:44:49,680
-Me gusta lo que tienes aquí
+Me gusta lo que tienes aqui
 
 484
 00:44:49,680 --> 00:44:53,680
@@ -1981,7 +1981,7 @@ Un sitio bonito
 
 485
 00:44:57,690 --> 00:45:00,690
-¿Esto?
+Esto?
 
 486
 00:45:00,690 --> 00:45:04,690
@@ -1989,15 +1989,15 @@ Era mejor antes
 
 487
 00:45:09,700 --> 00:45:13,700
-¿Cuándo vuelves a casa?
+Cuando vuelves a casa?
 
 488
 00:45:16,710 --> 00:45:18,740
-Cuando Nishiki esté muerto
+Cuando Nishiki este muerto
 
 489
 00:45:18,740 --> 00:45:21,750
-¿Y entonces?
+Y entonces?
 
 490
 00:45:21,750 --> 00:45:25,740
@@ -2026,15 +2026,15 @@ Por culpa de los 10 billones
 
 496
 00:45:44,740 --> 00:45:48,730
-Supongo que Kazama atacó por sorpresa
+Supongo que Kazama ataco por sorpresa
 
 497
 00:45:49,740 --> 00:45:51,740
-Nunca se le dió bien negociar
+Nunca se le dio bien negociar
 
 498
 00:45:51,740 --> 00:45:55,740
-Debería haberse quedado con su
+Deberia haberse quedado con su
 parte del dinero
 
 499
@@ -2044,11 +2044,11 @@ ha sido Nishiki
 
 500
 00:46:00,750 --> 00:46:04,760
-¿Entonces para qué usa el banco?
+Entonces para que usa el banco?
 
 501
 00:46:04,760 --> 00:46:07,760
-Nunca pregunté
+Nunca pregunte
 
 502
 00:46:07,760 --> 00:46:09,760
@@ -2061,7 +2061,7 @@ Nunca pregunto
 504
 00:46:12,770 --> 00:46:16,760
 Y mejor que tu no lo sepas tampoco.
-Es una misión muy preligrosa.
+Es una mision muy preligrosa.
 
 505
 00:46:20,770 --> 00:46:23,780
@@ -2074,19 +2074,19 @@ No estoy sangrando demasiado
 
 507
 00:46:29,780 --> 00:46:32,790
-¿Así que no hay ningún problema con Kazama no?
+Asi que no hay ningun problema con Kazama no?
 
 508
 00:46:32,790 --> 00:46:36,780
-No lo sé. Espero que esté bien
+No lo se. Espero que este bien
 
 509
 00:46:39,790 --> 00:46:42,800
-¿El arma es segura?
+El arma es segura?
 
 510
 00:46:42,800 --> 00:46:45,800
-¿Dónde está?
+Donde esta?
 
 511
 00:46:45,800 --> 00:46:47,800
@@ -2099,7 +2099,7 @@ ahora es un videoclub.
 
 513
 00:46:51,800 --> 00:46:54,810
-Ahí
+Ahi
 
 514
 00:46:54,810 --> 00:46:58,800
@@ -2107,43 +2107,43 @@ Consigue el arma y todo lo que necesites
 
 515
 00:47:07,820 --> 00:47:11,820
-¿No hay ningún problema verdad?
+No hay ningun problema verdad?
 
 516
 00:47:11,820 --> 00:47:15,820
-Parece demasiado fácil
+Parece demasiado facil
 
 517
 00:47:17,830 --> 00:47:19,830
-Para tí
+Para ti
 
 518
 00:47:19,830 --> 00:47:23,830
-¿Te has echado alcohol en la herida?
+Te has echado alcohol en la herida?
 
 519
 00:47:24,840 --> 00:47:28,840
-¿Sabes qué pasa en el Norte?
+Sabes que pasa en el Norte?
 
 520
 00:47:28,840 --> 00:47:32,830
-Gente pegándose en las calles
+Gente pegandose en las calles
 
 521
 00:48:02,940 --> 00:48:06,880
-¿Está Yumi muerta?
+Esta Yumi muerta?
 
 522
 00:48:11,880 --> 00:48:15,880
-¿Y mi madre?
+Y mi madre?
 
 523
 00:48:19,890 --> 00:48:23,890
-¿Por qué se muere la gente?
+Por que se muere la gente?
 
 524
 00:48:28,900 --> 00:48:32,890
-¿Fracasando?
+Fracasando?
 
 525
 00:48:34,910 --> 00:48:38,900
@@ -2151,7 +2151,7 @@ Todos morimos antes
 
 526
 00:48:44,950 --> 00:48:48,940
-¿Estás asustada?
+Estas asustada?
 
 527
 00:48:51,920 --> 00:48:55,920
@@ -2176,7 +2176,7 @@ nunca pienses que son lo mismo
 
 532
 00:49:20,950 --> 00:49:24,950
-¿Quieres ver a tu madre?
+Quieres ver a tu madre?
 
 533
 00:49:28,960 --> 00:49:32,950
@@ -2184,7 +2184,7 @@ Entonces nunca te des por vencida
 
 534
 00:49:52,990 --> 00:49:56,990
-¿Diga?
+Diga?
 
 535
 00:49:56,990 --> 00:50:00,980
@@ -2192,27 +2192,27 @@ Ahora se pone
 
 536
 00:50:01,990 --> 00:50:04,000
-¿Diga?
+Diga?
 
 537
 00:50:04,000 --> 00:50:06,000
-Entonces Kiryu, ¿estás conmigo?
+Entonces Kiryu, estas conmigo?
 
 538
 00:50:06,000 --> 00:50:09,000
-Sí
+Si
 
 539
 00:50:09,000 --> 00:50:12,000
-Todavía está desaparecido
+Todavia esta desaparecido
 
 540
 00:50:12,000 --> 00:50:16,010
-A este paso nunca encontraré a Kazama
+A este paso nunca encontrare a Kazama
 
 541
 00:50:16,010 --> 00:50:19,010
-¿Dónde estás?
+Donde estas?
 
 542
 00:50:19,010 --> 00:50:21,010
@@ -2220,11 +2220,11 @@ En una cabina
 
 543
 00:50:21,010 --> 00:50:24,020
-¿Todavía existe la tienda en la calle Binku?
+Todavia existe la tienda en la calle Binku?
 
 544
 00:50:24,020 --> 00:50:26,020
-¿Biimu Video?
+Biimu Video?
 
 545
 00:50:26,020 --> 00:50:29,020
@@ -2232,15 +2232,15 @@ Ahora venden DVD
 
 546
 00:50:29,020 --> 00:50:31,020
-¿En serio?
+En serio?
 
 547
 00:50:31,020 --> 00:50:33,060
-¿Ir a dónde...?
+Ir a donde...?
 
 548
 00:50:33,060 --> 00:50:37,050
-Ok, déjame comprobarlo antes
+Ok, dejame comprobarlo antes
 
 549
 00:51:09,040 --> 00:51:13,040
@@ -2252,7 +2252,7 @@ Aniki Majima...
 
 551
 00:51:28,060 --> 00:51:30,070
-Cuánto tiempo
+Cuanto tiempo
 
 552
 00:51:30,070 --> 00:51:32,070
@@ -2269,27 +2269,27 @@ No estoy haciendo esto por dinero
 555
 00:51:41,080 --> 00:51:44,080
 El problema que tuvimos,
-hace 10 años
+hace 10 anos
 
 556
 00:51:44,080 --> 00:51:48,070
-Sí, nunca lo resolvimos
+Si, nunca lo resolvimos
 
 557
 00:51:49,080 --> 00:51:53,080
-Pero no deberías sacar eso aquí
+Pero no deberias sacar eso aqui
 
 558
 00:51:56,090 --> 00:51:58,090
-Échate para atrás
+Echate para atras
 
 559
 00:51:58,090 --> 00:52:02,090
-¿Tengo que hacerlo?
+Tengo que hacerlo?
 
 560
 00:52:22,120 --> 00:52:25,120
-Dos jóvenes adolescentes
+Dos jovenes adolescentes
 
 561
 00:52:25,120 --> 00:52:28,120
@@ -2297,7 +2297,7 @@ Buenas noches
 
 562
 00:52:28,120 --> 00:52:31,130
-¿Qué queréis?
+Que quereis?
 
 563
 00:52:31,130 --> 00:52:35,130
@@ -2305,21 +2305,21 @@ Una pistola
 
 564
 00:52:35,130 --> 00:52:39,130
-¿Cuántos años tienes?
-21 años
+Cuantos anos tienes?
+21 anos
 
 565
 00:52:39,130 --> 00:52:42,140
-¿Tienes 21 años?
+Tienes 21 anos?
 
 566
 00:52:42,140 --> 00:52:46,130
-Qué guapa eres.
+Que guapa eres.
 -Ah no digas eso
 
 567
 00:52:55,150 --> 00:52:59,140
-¿Estáis seguros de esto?
+Estais seguros de esto?
 
 568
 00:53:18,170 --> 00:53:22,170
@@ -2327,8 +2327,8 @@ Es una noche muy ajetreada, muchos clientes
 
 569
 00:53:31,190 --> 00:53:35,190
-Increíble.
-Kiryu es exactamente como nos dijo que sería
+Increible.
+Kiryu es exactamente como nos dijo que seria
 
 570
 00:53:35,190 --> 00:53:39,180
@@ -2340,7 +2340,7 @@ Majima
 
 572
 00:53:46,230 --> 00:53:50,230
-¡Capullos cobardes!
+Capullos cobardes!
 
 573
 00:53:56,210 --> 00:54:00,200
@@ -2348,7 +2348,7 @@ Empecemos de nuevo
 
 574
 00:54:10,590 --> 00:54:13,600
-Después de tantos años de espera
+Despues de tantos anos de espera
 
 575
 00:54:13,600 --> 00:54:15,600
@@ -2360,7 +2360,7 @@ Por supuesto
 
 577
 00:54:40,620 --> 00:54:44,620
-Estás perdiendo habilidad
+Estas perdiendo habilidad
 
 578
 00:55:33,710 --> 00:55:37,700
@@ -2384,7 +2384,7 @@ perder
 
 583
 00:56:28,730 --> 00:56:30,730
-Este no está mal
+Este no esta mal
 
 584
 00:56:30,730 --> 00:56:34,730
@@ -2392,8 +2392,8 @@ Me lo llevo
 
 585
 00:56:36,740 --> 00:56:38,740
-También me llevo la mira telescópica
-y el maletín de la pistola
+Tambien me llevo la mira telescopica
+y el maletin de la pistola
 
 586
 00:56:38,740 --> 00:56:40,740
@@ -2405,24 +2405,24 @@ y 2 balas
 
 588
 00:56:42,740 --> 00:56:45,750
-¿Y vosotros chicos qué queréis?
+Y vosotros chicos que quereis?
 
 589
 00:56:45,750 --> 00:56:49,740
-¿Nos puede recomendar él alguna?
+Nos puede recomendar el alguna?
 
 590
 00:56:51,750 --> 00:56:54,760
-Envuélvelas
+Envuelvelas
 
 591
 00:56:54,760 --> 00:56:57,760
-He oído que Kazama estará en
+He oido que Kazama estara en
 la ciudad esta noche
 
 592
 00:56:57,760 --> 00:56:59,790
-¿Tienes algo de información?
+Tienes algo de informacion?
 
 593
 00:56:59,790 --> 00:57:03,800
@@ -2434,11 +2434,11 @@ En la planta 66, hay un bar llamado Aresu
 
 595
 00:57:09,800 --> 00:57:13,800
-Conozco a una mujer que trabaja ahí
+Conozco a una mujer que trabaja ahi
 
 596
 00:57:14,810 --> 00:57:17,810
-¿Cuánto me llevas por la información?
+Cuanto me llevas por la informacion?
 
 597
 00:57:17,810 --> 00:57:18,780
@@ -2446,12 +2446,12 @@ Es gratis
 
 598
 00:57:18,780 --> 00:57:21,780
-Sólo quiero que esta guerra termine
+Solo quiero que esta guerra termine
 
 599
 00:57:21,780 --> 00:57:25,780
-A lo mejor entonces este país
-será un lugar mejor para vivir
+A lo mejor entonces este pais
+sera un lugar mejor para vivir
 
 600
 00:57:26,790 --> 00:57:28,790
@@ -2463,15 +2463,15 @@ No
 
 602
 00:57:29,790 --> 00:57:33,780
-Kazama siempre viaja en helicóptero
+Kazama siempre viaja en helicoptero
 
 603
 00:57:35,800 --> 00:57:38,800
-¿Cuál es el mejor lugar para darle?
+¿Cual es el mejor lugar para darle?
 
 604
 00:57:38,800 --> 00:57:42,800
-¿Estás loco?
+¿Estas loco?
 
 605
 00:57:42,800 --> 00:57:46,810
@@ -2479,11 +2479,11 @@ La azotea es el mejor lugar para darle
 
 606
 00:57:46,810 --> 00:57:48,810
-Encontrarás un lugar de acceso fácilmente
+Encontraras un lugar de acceso facilmente
 
 607
 00:57:48,810 --> 00:57:52,800
-¿Vosotros qué queréis?
+Vosotros que quereis?
 
 608
 00:57:54,820 --> 00:57:56,820
@@ -2491,11 +2491,11 @@ Algo que nos haga parecer duros
 
 609
 00:57:56,820 --> 00:57:59,820
-¡Sí, peligrosos!
+Si, peligrosos!
 
 610
 00:57:59,820 --> 00:58:03,810
-¿En la calle?
+En la calle?
 
 611
 00:58:06,830 --> 00:58:10,830
@@ -2504,7 +2504,7 @@ Es dura
 612
 00:58:10,830 --> 00:58:14,840
 Recuerda tener una buena persepectiva
-de la situación cuando dispares
+de la situacion cuando dispares
 
 613
 00:58:14,840 --> 00:58:18,830
@@ -2513,15 +2513,15 @@ donde poner una bala
 
 614
 00:58:20,840 --> 00:58:23,850
-Es muy fácil fallar
+Es muy facil fallar
 
 615
 00:58:23,850 --> 00:58:25,850
-¿Qué?
+Que?
 
 616
 00:58:25,850 --> 00:58:27,850
-Es muy fácil fallar
+Es muy facil fallar
 
 617
 00:58:27,850 --> 00:58:31,840
@@ -2533,20 +2533,20 @@ Balas
 
 619
 00:58:36,860 --> 00:58:40,860
-¿Para qué necesitáis vosotros
+Para que necesitais vosotros
 una pistola?
 
 620
 00:58:40,860 --> 00:58:42,860
-No hay razón
+No hay razon
 
 621
 00:58:42,860 --> 00:58:46,860
-Sólo queremos conseguir dinero
+Solo queremos conseguir dinero
 
 622
 00:58:54,880 --> 00:58:58,870
-¡Yumi!
+Yumi!
 
 623
 00:59:07,290 --> 00:59:11,280
@@ -2562,11 +2562,11 @@ Me acaban de comprar una pistola
 
 626
 00:59:22,400 --> 00:59:26,400
-No sé nada de los 10 billones
+No se nada de los 10 billones
 
 627
 00:59:31,410 --> 00:59:33,310
-Tendría unos 20 años
+Tendria unos 20 anos
 
 628
 00:59:33,310 --> 00:59:37,320
@@ -2575,19 +2575,19 @@ te la mando.
 
 629
 00:59:37,320 --> 00:59:41,310
-Los encontrarás
+Los encontraras
 
 630
 01:00:12,350 --> 01:00:16,360
-Por aquí
+Por aqui
 
 631
 01:00:16,360 --> 01:00:18,360
-¿Qué es esto? Está buenísimo
+Que es esto? Esta buenisimo
 
 632
 01:00:18,360 --> 01:00:22,360
-¿Verdad? Es muy caro
+Verdad? Es muy caro
 
 633
 01:00:22,360 --> 01:00:25,370
@@ -2611,15 +2611,15 @@ Los voy a matar
 
 638
 01:01:05,410 --> 01:01:07,410
-Perdón
+Perdon
 
 639
 01:01:07,410 --> 01:01:11,410
-¿Qué ha pasado?
+Que ha pasado?
 
 640
 01:01:11,410 --> 01:01:13,410
-Habéis matado a nuestro jefe, ¿verdad?
+Habeis matado a nuestro jefe, verdad?
 
 641
 01:01:13,410 --> 01:01:15,420
@@ -2627,11 +2627,11 @@ No vamos a solucionar nada de esta manera
 
 642
 01:01:15,420 --> 01:01:17,420
-Si morimos todos, será tú culpa
+Si morimos todos, sera tu culpa
 
 643
 01:01:17,420 --> 01:01:19,420
-¿Qué has dicho?
+Que has dicho?
 
 644
 01:01:19,420 --> 01:01:21,420
@@ -2639,11 +2639,11 @@ El jefe no puede morir
 
 645
 01:01:21,420 --> 01:01:23,420
-Déjame enseñarle
+Dejame ensenarle
 
 646
 01:01:23,420 --> 01:01:27,430
-¿Qué haces?
+Que haces?
 
 647
 01:01:27,430 --> 01:01:29,430
@@ -2651,7 +2651,7 @@ Dispara
 
 648
 01:01:29,430 --> 01:01:31,430
-Todavía no he terminado de pegarle
+Todavia no he terminado de pegarle
 
 649
 01:01:31,430 --> 01:01:34,440
@@ -2659,7 +2659,7 @@ Lo sentimos
 
 650
 01:01:34,440 --> 01:01:36,440
-¿De qué hablas estúpido?
+De que hablas estupido?
 Espera.
 
 651
@@ -2668,7 +2668,7 @@ No tengo tiempo para ir al hospital
 
 652
 01:01:39,440 --> 01:01:41,440
-Por favor, túmbese
+Por favor, tumbese
 
 653
 01:01:41,440 --> 01:01:45,440
@@ -2685,11 +2685,11 @@ De vuelta al lugar de donde vinimos
 
 656
 01:01:59,460 --> 01:02:02,460
-Vuelva atrás, es demasiado peligroso
+Vuelva atras, es demasiado peligroso
 
 657
 01:02:02,460 --> 01:02:06,460
-¿Qué estás haciendo?
+Que estas haciendo?
 
 658
 01:02:27,540 --> 01:02:30,540
@@ -2697,7 +2697,7 @@ Lo cojo
 
 659
 01:02:30,540 --> 01:02:33,540
-¿Qué?
+Que?
 
 660
 01:02:33,540 --> 01:02:37,540
@@ -2709,37 +2709,37 @@ Todo el mundo necesita dinero
 
 662
 01:03:51,590 --> 01:03:55,690
-¿Estás asustado?
+Estas asustado?
 
 663
 01:03:55,690 --> 01:03:57,700
-¿Qué?
+Que?
 
 664
 01:03:57,700 --> 01:03:59,700
-La mayoría de la gente...
+La mayoria de la gente...
 
 665
 01:03:59,700 --> 01:04:03,700
-Cuando están en problemas,
+Cuando estan en problemas,
 se asustan
 
 666
 01:04:03,700 --> 01:04:05,600
-¡Estás asustada!
+Estas asustada!
 
 667
 01:04:05,600 --> 01:04:09,600
 No mucho.
-¿No mucho?
+No mucho?
 
 668
 01:04:10,710 --> 01:04:13,710
-¿A dónde podemos ir?
+A donde podemos ir?
 
 669
 01:04:13,710 --> 01:04:15,710
-No lo sé
+No lo se
 
 670
 01:04:15,710 --> 01:04:19,710
@@ -2747,11 +2747,11 @@ No tenemos suficiente dinero
 
 671
 01:04:21,720 --> 01:04:25,720
-¿Qué es lo que de verdad pasa?
+Que es lo que de verdad pasa?
 
 672
 01:04:25,720 --> 01:04:29,720
-Dímelo
+Dimelo
 
 673
 01:04:44,810 --> 01:04:46,640
@@ -2763,23 +2763,23 @@ No parecen sospechosos...
 
 675
 01:04:48,650 --> 01:04:51,650
-Qué...
+Que...
 
 676
 01:04:51,650 --> 01:04:55,640
-¿Yo?
+Yo?
 
 677
 01:04:59,720 --> 01:05:02,690
-¿En qué estabas pensando, estúpida?
+En que estabas pensando, estupida?
 
 678
 01:05:02,690 --> 01:05:06,690
-¡No voy a volver a casa!
+No voy a volver a casa!
 
 679
 01:05:09,700 --> 01:05:12,670
-¡Corre!
+Corre!
 
 680
 01:05:12,670 --> 01:05:14,670
@@ -2787,7 +2787,7 @@ No puedes
 
 681
 01:05:14,670 --> 01:05:16,670
-¿Quieres verte involucrado?
+Quieres verte involucrado?
 
 682
 01:05:16,670 --> 01:05:19,680
@@ -2795,24 +2795,24 @@ Dispara...
 
 683
 01:05:19,680 --> 01:05:23,670
-¡Házlo!
+Hazlo!
 
 684
 01:05:29,690 --> 01:05:33,680
-¡No te muevas!
+No te muevas!
 
 685
 01:05:44,700 --> 01:05:46,700
-¿Te compraron la pistola?
+Te compraron la pistola?
 
 686
 01:05:46,700 --> 01:05:49,710
-Sí.
--¿De dónde sacaron el dinero?
+Si.
+-De donde sacaron el dinero?
 
 687
 01:05:49,710 --> 01:05:51,710
-¿A lo mejor trabajan duro?
+A lo mejor trabajan duro?
 
 688
 01:05:51,710 --> 01:05:54,710
@@ -2824,11 +2824,11 @@ No sirve de nada, Kazuki
 
 690
 01:05:56,710 --> 01:05:59,720
-Nunca te dirá nada
+Nunca te dira nada
 
 691
 01:05:59,720 --> 01:06:02,720
-Está enfermo
+Esta enfermo
 
 692
 01:06:02,720 --> 01:06:06,710
@@ -2836,11 +2836,11 @@ No nos puede ayudar
 
 693
 01:06:08,730 --> 01:06:11,730
-¿Majima?
+Majima?
 
 694
 01:06:11,730 --> 01:06:15,720
-¿Dónde está Majima?
+Donde esta Majima?
 
 695
 01:06:20,840 --> 01:06:24,830
@@ -2852,7 +2852,7 @@ Genial...
 
 697
 01:06:32,750 --> 01:06:35,750
-Cuánto tiempo Kiryu
+Cuanto tiempo Kiryu
 
 698
 01:06:35,750 --> 01:06:37,760
@@ -2872,15 +2872,15 @@ No conozco a ninguna mujer llamada Mizuki
 
 702
 01:06:44,760 --> 01:06:46,760
-¿Y Yumi?
+Y Yumi?
 
 703
 01:06:46,760 --> 01:06:49,770
-Hace poco trabajaba por aquí cerca
+Hace poco trabajaba por aqui cerca
 
 704
 01:06:49,770 --> 01:06:53,760
-¿Dónde puedo encontrarla?
+Donde puedo encontrarla?
 
 705
 01:06:54,770 --> 01:06:58,780
@@ -2896,7 +2896,7 @@ Ko Genkyo...
 
 708
 01:07:03,850 --> 01:07:07,790
-¿Qué es eso?
+Que es eso?
 
 709
 01:07:07,790 --> 01:07:11,780
@@ -2904,7 +2904,7 @@ Un club nocturno
 
 710
 01:07:13,790 --> 01:07:15,790
-¿Qué más está pasando?
+Que mas esta pasando?
 
 711
 01:07:15,790 --> 01:07:17,800
@@ -2912,16 +2912,16 @@ Escucho rumores
 
 712
 01:07:17,800 --> 01:07:19,800
-De el área de Nishikiyama, ¿verdad?
+De el area de Nishikiyama, verdad?
 
 713
 01:07:19,800 --> 01:07:22,800
-En lo alto de la montaña,
+En lo alto de la montana,
 dispararan a uno de tus hombres.
 
 714
 01:07:22,800 --> 01:07:26,800
-¿Nishikiyama? El grupo Nishikiyama.
+Nishikiyama? El grupo Nishikiyama.
 
 715
 01:07:26,800 --> 01:07:30,810
@@ -2929,11 +2929,11 @@ Hace un tiempo, estaban relacionados contigo.
 
 716
 01:07:30,810 --> 01:07:32,810
-¿Yumi?
+Yumi?
 
 717
 01:07:32,810 --> 01:07:35,810
-Saldrás de dudas preguntándola a ella
+Saldras de dudas preguntandola a ella
 
 718
 01:07:35,810 --> 01:07:39,820
@@ -2941,11 +2941,11 @@ Se dice que vosotros tres vais juntos
 
 719
 01:07:39,820 --> 01:07:42,820
-No sé donde está Kazama
+No se donde esta Kazama
 
 720
 01:07:42,820 --> 01:07:46,810
-¿Tú lo sabes?
+Tu lo sabes?
 
 721
 01:07:58,940 --> 01:08:02,840
@@ -2954,19 +2954,19 @@ somos tan malos
 
 722
 01:08:02,840 --> 01:08:05,840
-¿Coreanos?
+Coreanos?
 
 723
 01:08:05,840 --> 01:08:08,850
-¿Por qué?
+Por que?
 
 724
 01:08:08,850 --> 01:08:12,850
-Estamos ayudando a Japón
+Estamos ayudando a Japon
 
 725
 01:08:12,850 --> 01:08:16,840
-Sólo sueltas mierda por la boca
+Solo sueltas mierda por la boca
 
 726
 01:08:18,960 --> 01:08:21,860
@@ -2983,7 +2983,7 @@ Voy a seguir buscando a su madre
 
 729
 01:08:29,970 --> 01:08:32,970
-Sí
+Si
 
 730
 01:08:32,970 --> 01:08:36,970
@@ -2991,7 +2991,7 @@ Kiryu
 
 731
 01:08:36,970 --> 01:08:40,970
-Vamos a tomar unas copas mañana
+Vamos a tomar unas copas manana
 
 732
 01:08:43,980 --> 01:08:47,970
@@ -2999,11 +2999,11 @@ Claro
 
 733
 01:08:49,990 --> 01:08:53,990
-El hermano Kazuki es tan simpático
+El hermano Kazuki es tan simpatico
 
 734
 01:08:53,990 --> 01:08:56,890
-Puedes confiar en él
+Puedes confiar en el
 
 735
 01:08:56,890 --> 01:09:00,890
@@ -3011,19 +3011,19 @@ Siempre ayuda a sus amigos
 
 736
 01:09:21,920 --> 01:09:23,920
-¿Qué pasa?
+Que pasa?
 
 737
 01:09:23,920 --> 01:09:25,920
-¿Qué es lo que está pasando?
+Que es lo que esta pasando?
 
 738
 01:09:25,920 --> 01:09:29,930
-¿Quién eres?
+Quien eres?
 
 739
 01:09:29,930 --> 01:09:32,930
-No lo sé.
+No lo se.
 -Y una mierda que no lo sabes.
 
 740
@@ -3032,32 +3032,32 @@ Yumi
 
 741
 01:09:35,930 --> 01:09:39,930
-¿Qué me estás ocultando?
+Que me estas ocultando?
 
 742
 01:09:47,950 --> 01:09:50,950
-Yumi, se acabó
+Yumi, se acabo
 
 743
 01:09:50,950 --> 01:09:52,950
-¿Qué estás haciendo?
+Que estas haciendo?
 
 744
 01:09:52,950 --> 01:09:54,950
-¡Aléjate!
+Alejate!
 .Yumi
 
 745
 01:09:54,950 --> 01:09:57,960
-¡Cállate!
+Callate!
 
 746
 01:09:57,960 --> 01:09:59,960
-¿Qué es eso?
+Que es eso?
 
 747
 01:09:59,960 --> 01:10:01,960
-¿No puedes disparar?
+No puedes disparar?
 
 748
 01:10:01,960 --> 01:10:04,960
@@ -3065,27 +3065,27 @@ Si me subestimas te mato
 
 749
 01:10:04,960 --> 01:10:08,960
-¿Qué haces?
+Que haces?
 
 750
 01:10:15,970 --> 01:10:19,970
-Nunca te podré dar un hijo
+Nunca te podre dar un hijo
 
 751
 01:10:24,980 --> 01:10:28,980
-Nunca te daré un hijo
+Nunca te dare un hijo
 
 752
 01:10:31,990 --> 01:10:33,990
-¿Está eso bien?
+Esta eso bien?
 
 753
 01:10:33,990 --> 01:10:35,990
-Nunca daré a luz...
+Nunca dare a luz...
 
 754
 01:10:35,990 --> 01:10:39,000
-¿Qué quieres decir?
+Que quieres decir?
 
 755
 01:10:39,000 --> 01:10:41,000
@@ -3097,24 +3097,24 @@ No te lo puedo decir
 
 757
 01:10:45,000 --> 01:10:49,000
-Tenía tantas deudas
+Tenia tantas deudas
 
 758
 01:10:50,010 --> 01:10:53,010
-Sólo unas pocas al principio
+Solo unas pocas al principio
 
 759
 01:10:53,010 --> 01:10:57,010
 Pero crecieron, y se hicieron
-demasiado grandes para mí
+demasiado grandes para mi
 
 760
 01:10:57,010 --> 01:11:01,010
-Tú...
+Tu...
 
 761
 01:11:03,020 --> 01:11:05,020
-Nunca daré a luz...
+Nunca dare a luz...
 
 762
 01:11:05,020 --> 01:11:09,030
@@ -3146,7 +3146,7 @@ Me han dado
 
 769
 01:11:31,050 --> 01:11:35,050
-Qué raro...
+Que raro...
 
 770
 01:11:35,050 --> 01:11:39,050
@@ -3154,15 +3154,15 @@ No me duele
 
 771
 01:12:14,120 --> 01:12:18,120
-¿Es este el lugar?
+Es este el lugar?
 
 772
 01:12:19,130 --> 01:12:23,120
-Sí
+Si
 
 773
 01:12:28,110 --> 01:12:31,110
-¿Quiere traer una niña aquí?
+Quiere traer una nina aqui?
 
 774
 01:12:31,110 --> 01:12:34,110
@@ -3182,11 +3182,11 @@ Entre primero por favor
 
 778
 01:12:57,200 --> 01:13:01,190
-Por favor, espere aquí
+Por favor, espere aqui
 
 779
 01:13:20,220 --> 01:13:24,220
-¡Agáchate!
+¡Agachate!
 
 780
 01:13:37,170 --> 01:13:39,180
@@ -3202,28 +3202,28 @@ Hermano...
 
 783
 01:13:47,220 --> 01:13:50,190
-¿Sabes dónde está Yumi?
+Sabes donde esta Yumi?
 
 784
 01:13:50,190 --> 01:13:53,190
-Búscala tú mismo
+Buscala tu mismo
 
 785
 01:13:53,190 --> 01:13:55,190
-Tú...
+Tu...
 
 786
 01:13:55,190 --> 01:13:57,190
-estás abusando de niñas pequeñas
+estas abusando de ninas pequenas
 
 787
 01:13:57,190 --> 01:14:01,200
-¡No eres humano!
+No eres humano!
 
 788
 01:14:01,200 --> 01:14:05,200
-¿Entendido?
--Sí
+Entendido?
+-Si
 
 789
 01:14:05,200 --> 01:14:07,200
@@ -3231,7 +3231,7 @@ Kiryu-chan
 
 790
 01:14:07,200 --> 01:14:11,200
-Estás muerto
+Estas muerto
 
 791
 01:14:31,230 --> 01:14:33,230
@@ -3239,7 +3239,7 @@ Estoy buscando a Yumi
 
 792
 01:14:33,230 --> 01:14:37,230
-¿Dónde está?
+Donde esta?
 
 793
 01:14:37,230 --> 01:14:39,240
@@ -3247,7 +3247,7 @@ Haruka
 
 794
 01:14:39,240 --> 01:14:41,270
-Corre hasta aquí
+Corre hasta aqui
 
 795
 01:14:41,270 --> 01:14:43,240
@@ -3255,7 +3255,7 @@ No puedo
 
 796
 01:14:43,240 --> 01:14:46,240
-¡Vamos!
+Vamos!
 
 797
 01:14:46,240 --> 01:14:48,250
@@ -3264,11 +3264,11 @@ No puedo.
 
 798
 01:14:48,250 --> 01:14:52,240
-Majima nunca te hará daño
+Majima nunca te hara dano
 
 799
 01:14:54,250 --> 01:14:58,240
-¡Vamos!
+Vamos!
 
 800
 01:15:11,300 --> 01:15:15,290
@@ -3276,19 +3276,19 @@ Tiempo muerto
 
 801
 01:15:28,290 --> 01:15:31,290
-¿Todavvía estás buscando a su madre?
+Todavvia estas buscando a su madre?
 
 802
 01:15:31,290 --> 01:15:35,290
-¡Está muerta!
+Esta muerta!
 
 803
 01:15:35,290 --> 01:15:37,290
-Si matas a tío Kiryu,
+Si matas a tio Kiryu,
 
 804
 01:15:37,290 --> 01:15:41,300
-te mato a tí
+te mato a ti
 
 805
 01:15:41,300 --> 01:15:45,290
@@ -3296,11 +3296,11 @@ Eres tan molesta
 
 806
 01:15:55,380 --> 01:15:59,370
-¡Disparadle!
+Disparadle!
 
 807
 01:16:12,400 --> 01:16:16,390
-Dime dónde está Yumi
+Dime donde esta Yumi
 
 808
 01:17:24,400 --> 01:17:27,400
@@ -3308,7 +3308,7 @@ Kiryu-chan
 
 809
 01:17:27,400 --> 01:17:31,400
-Me estás empezando a gustar
+Me estas empezando a gustar
 
 810
 01:17:43,420 --> 01:17:47,420
@@ -3324,7 +3324,7 @@ Haruka
 
 813
 01:18:11,450 --> 01:18:13,450
-¿La has encontrado?
+La has encontrado?
 -No
 
 814
@@ -3345,7 +3345,7 @@ Hermano
 
 818
 01:20:11,570 --> 01:20:15,560
-Estás acabado
+Estas acabado
 
 819
 01:20:33,660 --> 01:20:37,650
@@ -3353,7 +3353,7 @@ De ninguna manera
 
 820
 01:21:20,640 --> 01:21:24,630
-¡Estás muerto Kiryu!
+Estas muerto Kiryu!
 
 821
 01:22:53,730 --> 01:22:57,730
@@ -3365,7 +3365,7 @@ Me gustas
 
 823
 01:23:27,830 --> 01:23:31,830
-¿Quién?
+Quien?
 
 824
 01:23:42,780 --> 01:23:46,770
@@ -3373,7 +3373,7 @@ Kazama
 
 825
 01:23:53,790 --> 01:23:57,790
-Tío
+Tio
 
 826
 01:23:58,800 --> 01:24:00,800
@@ -3381,7 +3381,7 @@ Kazama fue atrapado por Nishiki
 
 827
 01:24:00,800 --> 01:24:02,800
-Le traje aquí
+Le traje aqui
 
 828
 01:24:02,800 --> 01:24:04,870
@@ -3389,24 +3389,24 @@ Kazuma...
 
 829
 01:24:04,870 --> 01:24:08,810
-Su madre está en el edificio Mireimiyama
+Su madre esta en el edificio Mireimiyama
 
 830
 01:24:11,810 --> 01:24:15,800
-¿Dónde están los 10 billones?
+Donde estan los 10 billones?
 
 831
 01:24:18,820 --> 01:24:21,820
 Los 10 billones que se supone
-que se llevó Nishiki
+que se llevo Nishiki
 
 832
 01:24:21,820 --> 01:24:25,810
-Los cogió Mizuki
+Los cogio Mizuki
 
 833
 01:24:26,830 --> 01:24:28,830
-¿Qué paso?
+Que paso?
 
 834
 01:24:28,830 --> 01:24:31,830
@@ -3415,11 +3415,11 @@ mujeres, no te preucupes
 
 835
 01:24:31,830 --> 01:24:33,830
-Eres problemático Kiryu
+Eres problematico Kiryu
 
 836
 01:24:33,830 --> 01:24:37,830
-Nishiki robó los 10 billones de yenes
+Nishiki robo los 10 billones de yenes
 
 837
 01:24:38,940 --> 01:24:42,930
@@ -3439,15 +3439,15 @@ Haruka
 
 841
 01:25:02,840 --> 01:25:06,840
-¿No tienes miedo?
+No tienes miedo?
 
 842
 01:25:07,850 --> 01:25:11,840
-No tío, me siento segura contigo
+No tio, me siento segura contigo
 
 843
 01:26:22,920 --> 01:26:26,920
-¿Quieres atracarlo?
+Quieres atracarlo?
 
 844
 01:26:27,930 --> 01:26:30,930
@@ -3455,11 +3455,11 @@ No ahora
 
 845
 01:26:30,930 --> 01:26:34,930
-Sí
+Si
 
 846
 01:26:36,940 --> 01:26:39,940
-Deberíamos ir al hospital primero
+Deberiamos ir al hospital primero
 
 847
 01:26:39,940 --> 01:26:41,940
@@ -3475,7 +3475,7 @@ Lo siento
 
 850
 01:27:13,980 --> 01:27:17,980
-Tu herida está peor
+Tu herida esta peor
 
 851
 01:27:17,980 --> 01:27:20,980
@@ -3487,7 +3487,7 @@ No puedo darme por vencido
 
 853
 01:27:28,990 --> 01:27:32,980
-Las bandas Yakuza están descontroladas
+Las bandas Yakuza estan descontroladas
 
 854
 01:28:57,080 --> 01:29:01,070
@@ -3495,15 +3495,15 @@ Quieto, quieto
 
 855
 01:29:33,150 --> 01:29:35,150
-¿Qué está pasando?
+Que esta pasando?
 
 856
 01:29:35,150 --> 01:29:39,120
-¿Qué?
+Que?
 
 857
 01:29:39,120 --> 01:29:41,120
-¿Esperamos refuerzos?
+Esperamos refuerzos?
 
 858
 01:29:41,120 --> 01:29:45,120
@@ -3511,7 +3511,7 @@ No creo
 
 859
 01:30:27,290 --> 01:30:31,280
-¡Tío!
+Tio!
 
 860
 01:30:39,300 --> 01:30:43,290
@@ -3519,7 +3519,7 @@ Nishiki
 
 861
 01:30:45,200 --> 01:30:47,210
-Hagámoslo a mi manera
+Hagamoslo a mi manera
 
 862
 01:30:47,210 --> 01:30:51,200
@@ -3531,47 +3531,47 @@ Quiero que Haruka vea a su madre
 
 864
 01:30:59,220 --> 01:31:03,210
-¿Trato hecho?
+Trato hecho?
 
 865
 01:31:07,230 --> 01:31:11,220
-Mírate. Estás en mala forma
+Mirate. Estas en mala forma
 
 866
 01:31:19,240 --> 01:31:23,230
-Tío
+Tio
 
 867
 01:32:04,280 --> 01:32:06,280
-Tío
+Tio
 
 868
 01:32:06,280 --> 01:32:10,280
-Tío
+Tio
 
 869
 01:32:13,360 --> 01:32:17,350
-Tío
+Tio
 
 870
 01:35:12,470 --> 01:35:16,460
-¿Hermana Yumi?
+Hermana Yumi?
 
 871
 01:35:35,560 --> 01:35:38,560
-¡Bien!
+Bien!
 
 872
 01:35:38,560 --> 01:35:42,560
-¡Genial!
+Genial!
 
 873
 01:36:07,530 --> 01:36:09,530
-¿De verdad eres Yumi?
+De verdad eres Yumi?
 
 874
 01:36:09,530 --> 01:36:12,530
-¿Ha cambiado mi cara?
+Ha cambiado mi cara?
 
 875
 01:36:12,530 --> 01:36:15,570
@@ -3587,11 +3587,11 @@ A veces, me llaman Mizuki
 
 878
 01:36:23,540 --> 01:36:27,530
-¿Eres mi madre?
+Eres mi madre?
 
 879
 01:36:29,550 --> 01:36:33,540
-¿Por qué?
+Por que?
 
 880
 01:36:34,550 --> 01:36:38,550
@@ -3599,44 +3599,44 @@ Para matar a Nishiki
 
 881
 01:36:59,580 --> 01:37:01,650
-¡Corred!
+Corred!
 
 882
 01:37:01,650 --> 01:37:03,650
-Mamá...
+Mama...
 
 883
 01:37:03,650 --> 01:37:05,650
-¿Quieres morir?
+Quieres morir?
 
 884
 01:37:05,650 --> 01:37:09,590
-¡Rápido!
+Rapido!
 
 885
 01:37:17,600 --> 01:37:21,600
-¡Ven aquí!
+Ven aqui!
 
 886
 01:37:21,600 --> 01:37:23,600
-¡Mamá!
--Rápido
+Mama!
+-Rapido
 
 887
 01:37:23,600 --> 01:37:25,640
-Mamá
+Mama
 
 888
 01:37:25,640 --> 01:37:29,630
-Mamá
+Mama
 
 889
 01:39:20,750 --> 01:39:22,750
-¡Cogédles!
+Cogedles!
 
 890
 01:39:22,750 --> 01:39:26,750
-Yes !
+Si!
 
 891
 01:39:47,810 --> 01:39:50,810
@@ -3644,7 +3644,7 @@ Yumi
 
 892
 01:39:50,810 --> 01:39:54,810
-¿Quieres que nos marchemos?
+Quieres que nos marchemos?
 
 893
 01:39:57,820 --> 01:40:01,810
@@ -3652,7 +3652,7 @@ Precioso...
 
 894
 01:40:02,830 --> 01:40:05,820
-Todo está cambiando
+Todo esta cambiando
 
 895
 01:40:12,770 --> 01:40:16,760
@@ -3660,7 +3660,7 @@ Encontraremos el camino
 
 896
 01:40:17,780 --> 01:40:21,770
-¿Qué?
+Que?
 
 897
 01:40:35,790 --> 01:40:39,790
@@ -3672,7 +3672,7 @@ Huele tan bien...
 
 899
 01:42:19,960 --> 01:42:23,960
-Qué frío
+Que frio
 
 900
 01:43:47,000 --> 01:43:49,000
@@ -3688,7 +3688,7 @@ Haruka...
 
 903
 01:43:53,010 --> 01:43:55,010
-¿Estás bien?
+Estas bien?
 
 904
 01:43:55,010 --> 01:43:59,010
@@ -3712,7 +3712,7 @@ eres igual que tu madre
 
 909
 01:45:00,070 --> 01:45:04,070
-Tú...
+Tu...
 
 910
 01:45:05,080 --> 01:45:09,070
@@ -3720,21 +3720,22 @@ Eres tan fuerte
 
 911
 01:45:29,100 --> 01:45:32,110
-¿Puedes ponerte de pie?
+Puedes ponerte de pie?
 
 912
 01:45:32,110 --> 01:45:36,100
-Sí...
+Si...
 
 913
 01:45:50,120 --> 01:45:54,120
-Tío
+Tio
 
 914
 01:46:06,210 --> 01:46:10,140
-Cuida de mí
+Cuida de mi
 
 915
 01:49:45,430 --> 01:49:48,420
 Traducidos por Darkmark para Allzine
+
 
