@@ -1,0 +1,2658 @@
+﻿1
+00:00:12,679 --> 00:00:14,848
+- Llama a Pete.
+<i>- Llamando a Pete.</i>
+
+2
+00:00:15,473 --> 00:00:17,517
+<i>Tu llamada fue dirigida al sistema…</i>
+
+3
+00:00:17,600 --> 00:00:18,810
+Carajo.
+
+4
+00:00:18,893 --> 00:00:19,894
+No.
+
+5
+00:00:22,105 --> 00:00:23,398
+Llama a Sydney.
+
+6
+00:00:23,481 --> 00:00:24,649
+<i>Llamando a Sydney.</i>
+
+7
+00:00:25,316 --> 00:00:28,486
+<i>Tu llamada fue dirigida</i>
+<i>al sistema de mensajería de voz.</i>
+
+8
+00:00:29,446 --> 00:00:31,197
+- Llama a Carmy.
+- <i>Llamando</i>.
+
+9
+00:00:31,740 --> 00:00:33,533
+<i>- Tu llamada…</i>
+<i>- </i>¿Qué carajo, Carmy?
+
+10
+00:00:33,616 --> 00:00:35,660
+Nunca contestas tu maldito teléfono.
+
+11
+00:00:35,744 --> 00:00:36,953
+Llama a Marcus.
+
+12
+00:00:37,037 --> 00:00:39,080
+<i>- Llamando a Marcus.</i>
+- Vamos.
+
+13
+00:00:39,164 --> 00:00:41,499
+- <i>3-4-9-7.</i>
+<i>- </i>Mierda.
+
+14
+00:00:41,583 --> 00:00:42,667
+Llama a Richie.
+
+15
+00:00:42,751 --> 00:00:44,627
+- <i> Llamando a Richie.</i>
+- Carajo.
+
+16
+00:00:44,711 --> 00:00:46,046
+- <i>Hola.</i>
+<i>- …no está disponible.</i>
+
+17
+00:00:46,129 --> 00:00:47,505
+¿Qué?
+
+18
+00:00:47,589 --> 00:00:49,340
+…<i>por favor, grabe su mensaje.</i>
+
+19
+00:00:49,424 --> 00:00:51,843
+- <i>Cuando termine de grabar…</i>
+- ¡Vete a la mierda!
+
+20
+00:00:51,926 --> 00:00:53,428
+<i>Presione uno para más opciones.</i>
+
+21
+00:00:53,511 --> 00:00:56,431
+Ay, Dios mío. Llama a Claire.
+
+22
+00:00:56,514 --> 00:00:59,476
+- <i>Llamando a El Oso.</i>
+<i>- </i>¡No! ¡A Claire, carajo!
+
+23
+00:00:59,559 --> 00:01:00,560
+<i>Llamando a El Oso.</i>
+
+24
+00:01:01,061 --> 00:01:02,729
+Llama a Claire, carajo.
+
+25
+00:01:02,812 --> 00:01:04,189
+- <i>Llamando a El Oso.</i>
+<i>- </i>No.
+
+26
+00:01:05,273 --> 00:01:07,692
+Ay, Dios. Por favor.
+
+27
+00:01:11,279 --> 00:01:13,865
+- ¡Vete a la mierda!
+- Lo siento.
+
+28
+00:01:19,370 --> 00:01:20,747
+¡Servilletas de mierda!
+
+29
+00:01:21,414 --> 00:01:22,916
+Carajo.
+
+30
+00:01:37,097 --> 00:01:38,098
+Ay, Dios…
+
+31
+00:01:38,765 --> 00:01:39,766
+Ay, Dios mío.
+
+32
+00:01:41,768 --> 00:01:42,644
+BAJO
+
+33
+00:01:54,322 --> 00:01:55,406
+Llama a mamá.
+
+34
+00:01:56,699 --> 00:01:58,034
+<i>Llamando a mamá.</i>
+
+35
+00:02:04,165 --> 00:02:05,166
+Bueno.
+
+36
+00:02:16,761 --> 00:02:18,304
+- ¡Cariño!
+- Ay, mierda.
+
+37
+00:02:18,388 --> 00:02:20,682
+- ¡Cariño, aquí estoy!
+- Ay, Dios. No.
+
+38
+00:02:20,765 --> 00:02:22,642
+- Calma.
+- No. ¡Esto es fabuloso!
+
+39
+00:02:22,725 --> 00:02:24,811
+- Te quiero. Despacio, por favor.
+- Respira.
+
+40
+00:02:24,894 --> 00:02:27,355
+- ¡Despacio!
+- Respira. Estoy tranquila.
+
+41
+00:02:27,438 --> 00:02:28,648
+- Respira hondo.
+- Sí.
+
+42
+00:02:28,731 --> 00:02:30,400
+- ¿Son contracciones rápidas?
+- No sé.
+
+43
+00:02:30,483 --> 00:02:32,527
+Cálmate. Estoy respirando, mamá.
+
+44
+00:02:32,610 --> 00:02:33,820
+- No, respira.
+- Sí.
+
+45
+00:02:33,903 --> 00:02:35,029
+Estoy respirando.
+
+46
+00:02:35,113 --> 00:02:36,406
+¿Qué haces?
+
+47
+00:02:36,489 --> 00:02:37,740
+- Respira.
+- Ay, mamá.
+
+48
+00:02:37,824 --> 00:02:40,535
+- ¡Estoy respirando!
+- ¡Oye! Natalie, no me grites.
+
+49
+00:02:40,618 --> 00:02:42,745
+- Dios mío.
+- Hice esto tres veces.
+
+50
+00:02:42,829 --> 00:02:44,038
+- Por favor. No.
+- Sí.
+
+51
+00:02:44,122 --> 00:02:46,708
+- Por favor, basta.
+- Tienes que respirar.
+
+52
+00:02:46,791 --> 00:02:52,255
+Mamá, el bebé debe llegar en un ambiente
+tranquilo y relativamente normal,
+
+53
+00:02:52,338 --> 00:02:55,592
+que sé que es algo
+totalmente desconocido para ti.
+
+54
+00:02:55,675 --> 00:02:59,012
+Pero te pido específicamente por esta vez
+
+55
+00:02:59,095 --> 00:03:03,516
+que, por favor,
+por el amor de la madre de Cristo, carajo,
+
+56
+00:03:03,600 --> 00:03:06,019
+te tranquilices de una puta vez.
+
+57
+00:03:06,102 --> 00:03:08,438
+- Está bien.
+- Gracias.
+
+58
+00:03:08,521 --> 00:03:09,522
+Está bien.
+
+59
+00:03:15,695 --> 00:03:18,406
+- ¿Qué haces, mamá?
+- Hago <i>coaching.</i>
+
+60
+00:03:18,489 --> 00:03:20,408
+- ¿<i>Coaching</i>?
+- Sí. Debes respirar.
+
+61
+00:03:20,491 --> 00:03:22,368
+- No. Esto me estresa.
+- Respira.
+
+62
+00:03:22,452 --> 00:03:24,120
+- No, te tranquiliza.
+- ¡No!
+
+63
+00:03:24,204 --> 00:03:26,664
+- Te calma. Respira.
+- ¡Basta! No me calma.
+
+64
+00:03:26,748 --> 00:03:28,833
+- Mírame, no estoy tranquila.
+- Sí.
+
+65
+00:03:28,917 --> 00:03:30,668
+- ¡No! ¡Basta!
+- Respira.
+
+66
+00:03:30,752 --> 00:03:33,129
+- Bueno, me harás vomitar.
+- ¡No!
+
+67
+00:03:33,213 --> 00:03:34,714
+- No te haré vomitar.
+- Ay.
+
+68
+00:03:34,797 --> 00:03:37,217
+- Dar a luz te hará vomitar.
+- Puta madre.
+
+69
+00:03:37,300 --> 00:03:39,093
+- Respira. Créeme.
+- Por favor.
+
+70
+00:03:39,177 --> 00:03:40,220
+- Basta.
+- Respira.
+
+71
+00:03:40,303 --> 00:03:41,763
+Estoy respirando, carajo.
+
+72
+00:03:41,846 --> 00:03:43,890
+No estaría viva.
+
+73
+00:03:44,933 --> 00:03:46,434
+¡Cállate la boca!
+
+74
+00:03:48,519 --> 00:03:49,646
+{\an8}Natalie.
+
+75
+00:03:49,729 --> 00:03:51,606
+{\an8}Lo que necesitan saber:
+llámenme Natalie
+
+76
+00:03:51,689 --> 00:03:54,025
+{\an8}No se hacía así. Al menos, antes.
+
+77
+00:03:54,108 --> 00:03:57,987
+No "conocíamos" a nuestros médicos.
+
+78
+00:03:58,821 --> 00:04:01,366
+¿Sabes? Eran hombres que decían cosas.
+
+79
+00:04:01,449 --> 00:04:02,533
+¿Si estaba feliz?
+
+80
+00:04:03,618 --> 00:04:04,744
+Claro. No podía…
+
+81
+00:04:05,328 --> 00:04:07,914
+Lo que más deseaba era tener un bebé.
+
+82
+00:04:08,790 --> 00:04:12,835
+Quería a alguien que me quisiera
+como eso que veía.
+
+83
+00:04:12,919 --> 00:04:17,006
+Todas esas mamás engreídas
+del supermercado Jewel
+
+84
+00:04:18,383 --> 00:04:20,551
+bloqueando el paso
+con los coches de sus bebés.
+
+85
+00:04:20,635 --> 00:04:22,512
+¿Sabes qué me dijo Gina?
+
+86
+00:04:23,012 --> 00:04:24,305
+La maldita Gina me dijo…
+
+87
+00:04:24,389 --> 00:04:26,391
+Me miró la panza y me dijo:
+
+88
+00:04:26,474 --> 00:04:27,558
+"¿Sabes, Donna?
+
+89
+00:04:28,184 --> 00:04:30,353
+Hay muchos bebés chinos".
+
+90
+00:04:32,188 --> 00:04:33,564
+¿Se lo imaginan?
+
+91
+00:04:33,648 --> 00:04:37,402
+¿Se imaginan? Pero le salió mal.
+Dios la tenga en su gloria.
+
+92
+00:04:37,485 --> 00:04:39,904
+Llevaba dos meses
+embarazada de Michael.
+
+93
+00:04:40,655 --> 00:04:41,739
+Perra de mierda.
+
+94
+00:04:42,740 --> 00:04:44,742
+Mamá, ¿vuelves a llamar a Pete?
+
+95
+00:04:46,911 --> 00:04:48,162
+No. Ya lo hice.
+
+96
+00:04:48,246 --> 00:04:49,706
+Lo hice. Ya lo hice.
+
+97
+00:04:49,789 --> 00:04:52,083
+No. Lo llamé. Le dejé un mensaje.
+
+98
+00:04:52,166 --> 00:04:54,043
+Le dije dónde estábamos
+
+99
+00:04:54,127 --> 00:04:57,171
+y que yo estaba aquí,
+que todo estaba bien, así que…
+
+100
+00:04:58,589 --> 00:04:59,590
+Bueno.
+
+101
+00:05:00,258 --> 00:05:01,259
+Todo está bien.
+
+102
+00:05:01,843 --> 00:05:03,553
+- Gracias.
+- De nada.
+
+103
+00:05:04,637 --> 00:05:08,474
+¿Te dije que fui caminando al hospital?
+
+104
+00:05:08,558 --> 00:05:10,018
+- Vaya.
+- Sí, a dar a luz.
+
+105
+00:05:10,852 --> 00:05:13,021
+- Caminé al hospital.
+- Guau.
+
+106
+00:05:14,564 --> 00:05:15,857
+¿Natalie Berzatto?
+
+107
+00:05:15,940 --> 00:05:16,941
+- Sí.
+- Sí.
+
+108
+00:05:17,025 --> 00:05:19,861
+¿Me confirmas
+que tu cumpleaños es el 10/11/88?
+
+109
+00:05:20,528 --> 00:05:24,324
+- <i>Se necesita ayuda en la 17.</i>
+- Iré luego de la admisión en la 24.
+
+110
+00:05:24,407 --> 00:05:26,826
+Sí. Y mi esposo está en camino.
+
+111
+00:05:26,909 --> 00:05:28,369
+Ella es mi mamá, Donna.
+
+112
+00:05:28,453 --> 00:05:29,620
+- Hola.
+- Hola, Donna.
+
+113
+00:05:29,704 --> 00:05:31,622
+Natalie, ¿tienes un plan de parto?
+
+114
+00:05:31,706 --> 00:05:32,999
+Sí, natural.
+
+115
+00:05:33,082 --> 00:05:36,169
+Y preferiría evitar el enema
+
+116
+00:05:36,252 --> 00:05:38,963
+y el rasurado excesivo del vello púbico.
+
+117
+00:05:40,465 --> 00:05:41,466
+Uy.
+
+118
+00:05:41,549 --> 00:05:42,550
+Mamá.
+
+119
+00:05:43,176 --> 00:05:46,554
+¿Qué? Perdón. Es solo que… Uy.
+
+120
+00:05:48,514 --> 00:05:53,102
+Quiero levantarme y cambiar de posición
+durante el trabajo de parto.
+
+121
+00:05:53,186 --> 00:05:56,147
+¿Y podemos bajar la luz?
+
+122
+00:05:56,230 --> 00:05:57,273
+- Sí.
+- Fabuloso.
+
+123
+00:05:57,357 --> 00:05:58,733
+- ¿Tienen música?
+- Sí.
+
+124
+00:05:58,816 --> 00:06:00,777
+Bueno. Quiero bajar las luces
+
+125
+00:06:00,860 --> 00:06:03,446
+y escuchar música, ¿sabes?
+
+126
+00:06:03,529 --> 00:06:04,947
+- Sí.
+- Algo bueno
+
+127
+00:06:05,031 --> 00:06:08,201
+para que el bebé
+se encuentre con algo muy agradable y…
+
+128
+00:06:08,743 --> 00:06:09,911
+¿Sabes?
+
+129
+00:06:09,994 --> 00:06:11,454
+Bien. ¿Nada de epidural?
+
+130
+00:06:12,163 --> 00:06:13,164
+- No.
+- Bueno.
+
+131
+00:06:13,247 --> 00:06:14,374
+Espera.
+
+132
+00:06:15,041 --> 00:06:17,043
+- Natalie.
+- Mamá. No. Basta.
+
+133
+00:06:17,627 --> 00:06:18,711
+¿Qué? Perdón.
+
+134
+00:06:18,795 --> 00:06:20,838
+- ¿Estás loca, carajo?
+- Dios mío.
+
+135
+00:06:21,339 --> 00:06:23,424
+- Mamá, no.
+- ¿Estás loca, carajo?
+
+136
+00:06:23,508 --> 00:06:25,468
+Quiero ver si resisto el dolor.
+
+137
+00:06:25,551 --> 00:06:28,262
+- No sé cómo será.
+- Pues yo sí sé.
+
+138
+00:06:28,346 --> 00:06:29,597
+- ¿En serio?
+- Sí.
+
+139
+00:06:29,680 --> 00:06:31,474
+- Lo hice tres veces.
+- Perdón.
+
+140
+00:06:31,557 --> 00:06:35,144
+Y no has hablado de otra cosa
+en estas cuatro malditas horas.
+
+141
+00:06:36,813 --> 00:06:40,066
+- ¿Te ocuparías de todo por mí? Gracias.
+- Sí.
+
+142
+00:06:40,149 --> 00:06:43,444
+- ¿Quieren agua?
+- Sí, sería bueno porque este café…
+
+143
+00:06:43,528 --> 00:06:44,821
+¿Te llevarías el café?
+
+144
+00:06:44,904 --> 00:06:46,906
+Porque está… No, en serio…
+
+145
+00:06:46,989 --> 00:06:48,032
+Porque está frío.
+
+146
+00:06:48,741 --> 00:06:51,077
+- Agua me encantaría. Gracias.
+- Gracias.
+
+147
+00:06:51,160 --> 00:06:53,538
+- Sí, también quiero agua.
+- Ya regreso.
+
+148
+00:06:53,621 --> 00:06:55,206
+- Gracias.
+- Gracias.
+
+149
+00:06:55,289 --> 00:06:57,959
+- Gracias. Son agradables. Creo.
+- Lo son.
+
+150
+00:06:58,042 --> 00:07:00,378
+- Son muy dulces.
+- Sí. Son jóvenes.
+
+151
+00:07:00,461 --> 00:07:02,505
+- Deja de hacer eso.
+- Bueno, no.
+
+152
+00:07:02,588 --> 00:07:03,631
+Pero es que…
+
+153
+00:07:04,841 --> 00:07:06,092
+Gracias. Qué amable.
+
+154
+00:07:06,175 --> 00:07:08,010
+- Gracias.
+- Sí. De nada.
+
+155
+00:07:10,346 --> 00:07:11,848
+Te lo agradezco.
+
+156
+00:07:11,931 --> 00:07:13,182
+Sí. Gracias, mamá.
+
+157
+00:07:13,266 --> 00:07:14,350
+De nada.
+
+158
+00:07:15,476 --> 00:07:16,602
+Solo quiero ayudar.
+
+159
+00:07:17,228 --> 00:07:18,229
+Sí.
+
+160
+00:07:23,609 --> 00:07:24,694
+- ¿Mamá?
+- ¿Qué?
+
+161
+00:07:26,487 --> 00:07:27,864
+No quiero estar atontada.
+
+162
+00:07:28,364 --> 00:07:29,407
+¿Tan malo es eso?
+
+163
+00:07:29,490 --> 00:07:30,575
+Cariño, ¿sabes?
+
+164
+00:07:32,034 --> 00:07:33,578
+Nat, haz lo que quieras.
+
+165
+00:07:33,661 --> 00:07:36,497
+Pero te lo digo
+como alguien con experiencia:
+
+166
+00:07:36,998 --> 00:07:40,626
+esta cosa en particular
+duele como una reverenda mierda.
+
+167
+00:07:40,710 --> 00:07:41,752
+Bueno.
+
+168
+00:07:41,836 --> 00:07:43,337
+Pero haz lo que quieras.
+
+169
+00:07:43,421 --> 00:07:46,257
+- Lo digo para cuidarte.
+- Gracias.
+
+170
+00:07:48,050 --> 00:07:49,635
+También leí que es útil
+
+171
+00:07:49,719 --> 00:07:52,013
+- tener el control del cuerpo.
+- Sin sedación.
+
+172
+00:07:52,096 --> 00:07:54,307
+La epidural puede llevar a una cesárea
+
+173
+00:07:54,390 --> 00:07:56,642
+- y no quiero…
+- Haz lo que quieras.
+
+174
+00:08:00,813 --> 00:08:02,190
+Pero si se pone peor
+
+175
+00:08:02,273 --> 00:08:05,401
+y decido que quiero eso, les diré que yo…
+
+176
+00:08:05,485 --> 00:08:07,236
+- Sí.
+- Me darán la epidural y…
+
+177
+00:08:07,320 --> 00:08:09,197
+- Sí, lo que quieras.
+- Bueno.
+
+178
+00:08:09,697 --> 00:08:10,698
+Gracias.
+
+179
+00:08:11,949 --> 00:08:12,950
+De nada.
+
+180
+00:08:18,748 --> 00:08:19,832
+¿Sabes qué?
+
+181
+00:08:21,667 --> 00:08:24,045
+- ¿Qué?
+- Tienes una marca en la mejilla.
+
+182
+00:08:24,128 --> 00:08:26,214
+¿Puedo sacártela? No te enojes.
+
+183
+00:08:26,297 --> 00:08:27,924
+- No seas pasivo-agresiva.
+- No.
+
+184
+00:08:28,007 --> 00:08:30,801
+Cuando quiero hacer algo, me detienes.
+
+185
+00:08:30,885 --> 00:08:33,304
+- ¿Puedo limpiarte la mejilla?
+- Sí.
+
+186
+00:08:33,387 --> 00:08:35,389
+- Ahora. No sé.
+- Solo…
+
+187
+00:08:36,766 --> 00:08:38,351
+Tal vez sea de café. No sé.
+
+188
+00:08:38,434 --> 00:08:40,394
+- Bueno, gracias.
+- Ya está.
+
+189
+00:08:41,103 --> 00:08:42,104
+De nada.
+
+190
+00:08:43,856 --> 00:08:45,066
+Ay, Dios.
+
+191
+00:08:48,402 --> 00:08:50,488
+Quisiera hacerme crujir la espalda.
+
+192
+00:08:51,197 --> 00:08:52,657
+- No envejezcas.
+- ¿Estás bien?
+
+193
+00:08:52,740 --> 00:08:55,660
+- Sí. Estoy bien.
+- ¿No quieres un poco de…?
+
+194
+00:08:55,743 --> 00:08:57,245
+No. Descuida.
+
+195
+00:08:58,204 --> 00:08:59,288
+Tienes un bebé.
+
+196
+00:09:02,375 --> 00:09:03,459
+¿Adónde ibas?
+
+197
+00:09:04,585 --> 00:09:06,629
+Fui a comprar servilletas de papel.
+
+198
+00:09:08,005 --> 00:09:10,758
+Sí, los restaurantes tienen que tenerlas.
+
+199
+00:09:10,841 --> 00:09:12,510
+- Así es.
+- Sí, claro.
+
+200
+00:09:12,593 --> 00:09:14,220
+Este nunca tiene.
+
+201
+00:09:15,680 --> 00:09:18,182
+Estaba lindo afuera. Quería salir.
+
+202
+00:09:18,266 --> 00:09:19,267
+Sí.
+
+203
+00:09:19,350 --> 00:09:20,601
+¿Adónde ibas?
+
+204
+00:09:20,685 --> 00:09:22,812
+Iba a la peluquería.
+
+205
+00:09:23,437 --> 00:09:25,064
+- Lo siento.
+- No.
+
+206
+00:09:25,898 --> 00:09:26,899
+Natalie, vamos.
+
+207
+00:09:26,983 --> 00:09:29,360
+No quisiera estar en otro lugar.
+
+208
+00:09:30,820 --> 00:09:32,405
+Gracias por acompañarme.
+
+209
+00:09:33,698 --> 00:09:35,283
+Gracias por pedírmelo.
+
+210
+00:09:38,119 --> 00:09:40,329
+Debo decir que me sorprendí un poco.
+
+211
+00:09:41,706 --> 00:09:42,707
+Yo también.
+
+212
+00:09:45,585 --> 00:09:46,877
+Pete vendrá, cariño.
+
+213
+00:09:47,628 --> 00:09:48,629
+Lo sé.
+
+214
+00:09:49,755 --> 00:09:50,881
+¿Carmen sabe?
+
+215
+00:09:52,883 --> 00:09:56,846
+No respondió cuando intenté llamarlo.
+
+216
+00:09:56,929 --> 00:09:58,598
+- Qué raro. Sí.
+- Qué raro.
+
+217
+00:10:00,683 --> 00:10:01,934
+Cariño.
+
+218
+00:10:02,727 --> 00:10:04,979
+Cariño, no te quedes mirando.
+
+219
+00:10:05,479 --> 00:10:06,939
+El bebé está bien. Sí.
+
+220
+00:10:08,399 --> 00:10:10,526
+- El bebé está bien.
+- Lo sé.
+
+221
+00:10:16,449 --> 00:10:19,952
+- Lo sé. Bueno.
+- Ahí viene otra.
+
+222
+00:10:20,036 --> 00:10:23,456
+Respira.
+
+223
+00:10:23,539 --> 00:10:24,999
+- Vamos.
+- ¡Basta!
+
+224
+00:10:25,082 --> 00:10:26,626
+Vamos.
+
+225
+00:10:29,003 --> 00:10:31,130
+- No hagas eso.
+- No.
+
+226
+00:10:33,007 --> 00:10:34,300
+- Eso es.
+- No ayuda.
+
+227
+00:10:34,383 --> 00:10:36,135
+- Sí, vamos.
+- Dios. Carajo.
+
+228
+00:10:36,218 --> 00:10:38,346
+No. Hazlo, carajo. Vamos.
+
+229
+00:10:41,932 --> 00:10:43,601
+¿Ves? Funciona. Despacio.
+
+230
+00:10:43,684 --> 00:10:46,479
+Despacio. Ya.
+
+231
+00:10:46,562 --> 00:10:47,647
+Funciona.
+
+232
+00:10:48,314 --> 00:10:51,567
+Eso es.
+
+233
+00:10:51,651 --> 00:10:54,111
+- Eso es.
+- Bueno.
+
+234
+00:10:54,820 --> 00:10:57,406
+- ¿Ves? Funciona. Sí. ¿Ves? Funciona.
+- Sí.
+
+235
+00:10:57,490 --> 00:10:59,325
+- Gracias.
+- De nada.
+
+236
+00:10:59,909 --> 00:11:00,910
+¿Ves?
+
+237
+00:11:03,287 --> 00:11:04,288
+Bueno.
+
+238
+00:11:09,919 --> 00:11:10,920
+Bueno.
+
+239
+00:11:24,934 --> 00:11:26,435
+¿Puedo preguntarte algo?
+
+240
+00:11:27,436 --> 00:11:28,437
+Sí.
+
+241
+00:11:36,153 --> 00:11:37,905
+No me dijiste lo del bebé…
+
+242
+00:11:40,908 --> 00:11:42,493
+y creo entender por qué.
+
+243
+00:11:45,162 --> 00:11:48,249
+- Mamá.
+- Pero ¿entiendo por qué?
+
+244
+00:11:54,839 --> 00:11:57,049
+- Dime el resto de la historia.
+- Bien.
+
+245
+00:11:59,552 --> 00:12:01,095
+Está bien.
+
+246
+00:12:01,971 --> 00:12:03,097
+Michael.
+
+247
+00:12:03,597 --> 00:12:04,974
+Sí, estabas caminando.
+
+248
+00:12:07,727 --> 00:12:09,979
+Estabas caminando por un lugar. No sé.
+
+249
+00:12:10,062 --> 00:12:11,063
+Carajo.
+
+250
+00:12:12,106 --> 00:12:13,858
+- Estaba caminando.
+- No sé.
+
+251
+00:12:13,941 --> 00:12:15,609
+Sí, estaba caminando.
+
+252
+00:12:15,693 --> 00:12:17,278
+No sabía qué más hacer.
+
+253
+00:12:17,361 --> 00:12:19,071
+Recuerdo que hacía frío.
+
+254
+00:12:19,572 --> 00:12:20,656
+Mucho frío.
+
+255
+00:12:21,449 --> 00:12:24,535
+Pero me sentía muy bien. Excelente.
+
+256
+00:12:24,618 --> 00:12:27,079
+Recuerdo claramente que me sentía
+
+257
+00:12:27,621 --> 00:12:29,457
+muy bien y fuerte, ¿sabes?
+
+258
+00:12:29,957 --> 00:12:31,667
+Digo, entre las contracciones,
+
+259
+00:12:32,334 --> 00:12:36,464
+pero hacía unas respiraciones
+muy profundas, maravillosas,
+
+260
+00:12:37,089 --> 00:12:39,675
+y luego empezaba el dolor y me mataba.
+
+261
+00:12:39,759 --> 00:12:41,010
+Era como…
+
+262
+00:12:41,093 --> 00:12:43,596
+Era una estrella fugaz que me atravesaba,
+
+263
+00:12:43,679 --> 00:12:47,057
+y recuerdo que paraba,
+descansaba y me sujetaba a un…
+
+264
+00:12:50,102 --> 00:12:52,521
+- Lo que estuviera cerca.
+- No. Al parquímetro.
+
+265
+00:12:52,605 --> 00:12:53,939
+- O al cartel indicador.
+- Sí.
+
+266
+00:12:54,023 --> 00:12:57,443
+Y se me pasaba,
+hasta que llegué al hospital.
+
+267
+00:12:57,526 --> 00:12:59,779
+Entré y empecé a gritar.
+
+268
+00:12:59,862 --> 00:13:02,239
+Dije: "Hola. Las drogas.
+
+269
+00:13:02,323 --> 00:13:04,742
+Hola, por favor. Hola".
+
+270
+00:13:04,825 --> 00:13:07,077
+- Más bajo.
+- "Denme drogas.
+
+271
+00:13:07,161 --> 00:13:09,622
+Vamos, denme drogas".
+
+272
+00:13:09,705 --> 00:13:11,207
+Y lo hicieron.
+
+273
+00:13:11,791 --> 00:13:13,834
+Y luego nació Michael.
+
+274
+00:13:13,918 --> 00:13:15,878
+Y el médico dijo…
+
+275
+00:13:15,961 --> 00:13:18,047
+Dijo que fue un parto fabuloso
+
+276
+00:13:18,130 --> 00:13:22,635
+porque creo que había girado ahí adentro
+
+277
+00:13:22,718 --> 00:13:26,472
+justo en el último minuto,
+en el último segundo.
+
+278
+00:13:26,555 --> 00:13:28,432
+Fue como si él…
+
+279
+00:13:29,892 --> 00:13:31,769
+Como si quisiera quedarse ahí.
+
+280
+00:13:41,487 --> 00:13:42,488
+Sí.
+
+281
+00:13:55,292 --> 00:13:56,710
+¿Y Carm?
+
+282
+00:13:59,839 --> 00:14:01,340
+- ¿Qué?
+- Carajo.
+
+283
+00:14:01,423 --> 00:14:03,217
+Tu padre estuvo ahí en ese.
+
+284
+00:14:03,717 --> 00:14:05,427
+- ¿Sí?
+- Ojalá no hubiera estado.
+
+285
+00:14:05,928 --> 00:14:06,929
+En serio.
+
+286
+00:14:07,012 --> 00:14:08,931
+Discutimos todo el tiempo.
+
+287
+00:14:09,014 --> 00:14:10,015
+Y el hospital.
+
+288
+00:14:10,516 --> 00:14:12,518
+El hospital era un desastre.
+
+289
+00:14:12,601 --> 00:14:15,688
+Era como si todo el mundo
+
+290
+00:14:15,771 --> 00:14:19,275
+hubiera decidido tener su trabajo de parto
+en ese momento.
+
+291
+00:14:19,358 --> 00:14:21,068
+- Ay, Dios.
+- Y él…
+
+292
+00:14:22,319 --> 00:14:25,281
+- Pedía un sedante todo el tiempo.
+- ¿Papá?
+
+293
+00:14:25,364 --> 00:14:27,533
+Como si él fuera a parir.
+
+294
+00:14:27,616 --> 00:14:29,118
+Pedía un sedante,
+
+295
+00:14:29,201 --> 00:14:32,288
+entró en pánico y me sacó de quicio.
+
+296
+00:14:32,371 --> 00:14:37,710
+Y Carmen, el maldito Carmen,
+tardó muchísimo.
+
+297
+00:14:37,793 --> 00:14:39,795
+Fue muy duro y me dio mucho miedo
+
+298
+00:14:39,879 --> 00:14:44,592
+porque no dejó de atascarse
+y tenían que moverme
+
+299
+00:14:44,675 --> 00:14:47,303
+y recuerdo que me movían,
+todas esas posiciones.
+
+300
+00:14:47,386 --> 00:14:51,348
+En un punto,
+creo que me pusieron al revés.
+
+301
+00:14:51,432 --> 00:14:53,976
+Ni siquiera lo recuerdo.
+Pero cariño… Cariño.
+
+302
+00:14:54,059 --> 00:14:55,185
+- ¿Sí?
+- No.
+
+303
+00:14:55,269 --> 00:14:57,646
+No te pasará a ti. Eso no te pasará.
+
+304
+00:14:57,730 --> 00:15:00,482
+¿Sabes qué? Yo estaba jodida.
+
+305
+00:15:00,566 --> 00:15:01,984
+Estaba todo jodido.
+
+306
+00:15:02,067 --> 00:15:04,320
+En serio, desde el principio, todo jodido.
+
+307
+00:15:04,945 --> 00:15:07,573
+¿Sabes? Pensé que era pan comido.
+
+308
+00:15:07,656 --> 00:15:09,992
+Me habían dicho
+que los niños eran más fáciles.
+
+309
+00:15:11,994 --> 00:15:13,537
+¿Son más fáciles?
+
+310
+00:15:17,291 --> 00:15:19,043
+Nada de esto es fácil.
+
+311
+00:15:20,210 --> 00:15:21,712
+Todo duele igual.
+
+312
+00:15:34,558 --> 00:15:36,769
+- Mierda.
+- Vamos.
+
+313
+00:15:36,852 --> 00:15:39,021
+- Mierda.
+- Vamos.
+
+314
+00:15:40,356 --> 00:15:42,691
+Respira.
+
+315
+00:15:51,158 --> 00:15:54,662
+- Vamos, cariño. Tú puedes.
+- Ay, Dios.
+
+316
+00:15:57,873 --> 00:15:59,333
+Ahora despacio.
+
+317
+00:15:59,416 --> 00:16:00,793
+Despacio.
+
+318
+00:16:01,710 --> 00:16:03,921
+¿Ves? Mira. Mira en el monitor.
+
+319
+00:16:04,004 --> 00:16:06,507
+¿Ves? Funciona. Mira.
+
+320
+00:16:07,841 --> 00:16:09,468
+Tú puedes. Despacio.
+
+321
+00:16:15,265 --> 00:16:18,018
+- Te frotaré la espalda.
+- Bueno.
+
+322
+00:16:18,644 --> 00:16:21,021
+- Por favor, frótame.
+- ¿Ves? Funciona.
+
+323
+00:16:25,067 --> 00:16:26,318
+Eso es.
+
+324
+00:16:26,402 --> 00:16:28,445
+Esto no termina.
+
+325
+00:16:28,946 --> 00:16:30,072
+Respira.
+
+326
+00:16:30,155 --> 00:16:31,323
+Bueno, sí.
+
+327
+00:16:33,158 --> 00:16:35,160
+Tienes el trasero de tu papá.
+
+328
+00:16:36,954 --> 00:16:38,414
+Estoy tocando tu trasero
+
+329
+00:16:38,497 --> 00:16:41,000
+- y es como el de tu papá.
+- ¿Qué carajo?
+
+330
+00:16:41,083 --> 00:16:43,836
+- Tu papá tenía un lindo trasero.
+- ¿Qué dices?
+
+331
+00:16:43,919 --> 00:16:46,588
+- Tenía un lindo culo.
+- ¡No me toques!
+
+332
+00:16:46,672 --> 00:16:48,590
+La puta madre.
+
+333
+00:16:49,091 --> 00:16:50,884
+Ay, Dios mío.
+
+334
+00:16:50,968 --> 00:16:53,012
+Llama a Pete de nuevo, por favor.
+
+335
+00:16:55,514 --> 00:16:57,099
+¿Necesitas algo?
+
+336
+00:16:59,768 --> 00:17:01,687
+¿Quieres un bocadillo?
+
+337
+00:17:02,187 --> 00:17:04,064
+Algo para comer. ¿Qué quisieras?
+
+338
+00:17:04,565 --> 00:17:08,610
+Perdón, no me recupero
+de eso de tener el trasero de papá.
+
+339
+00:17:11,822 --> 00:17:13,866
+- ¿Te traigo algo?
+- ¿Qué quieres?
+
+340
+00:17:13,949 --> 00:17:15,242
+Creo que quieres algo.
+
+341
+00:17:15,325 --> 00:17:16,577
+No.
+
+342
+00:17:17,244 --> 00:17:19,204
+No. ¿Qué puedo traerte?
+
+343
+00:17:19,705 --> 00:17:20,789
+¿Qué te gusta?
+
+344
+00:17:22,082 --> 00:17:25,085
+- ¿Sabes qué me encantaba?
+- ¿Qué?
+
+345
+00:17:26,503 --> 00:17:27,796
+Los cubitos de hielo.
+
+346
+00:17:31,550 --> 00:17:32,968
+- Bueno.
+- ¿Quieres?
+
+347
+00:17:33,052 --> 00:17:35,971
+- Sí, por favor. Gracias.
+- Sí. Iré a traerlos.
+
+348
+00:17:36,055 --> 00:17:37,973
+- Por favor.
+- Voy a traerlos.
+
+349
+00:17:39,099 --> 00:17:40,309
+Gracias a Dios.
+
+350
+00:17:44,646 --> 00:17:47,608
+"El trasero de tu papá". Dios mío.
+
+351
+00:17:50,861 --> 00:17:52,071
+No.
+
+352
+00:17:52,154 --> 00:17:53,572
+No.
+
+353
+00:17:55,991 --> 00:17:57,659
+Haz como te enseñé.
+
+354
+00:18:08,462 --> 00:18:09,588
+Eso es.
+
+355
+00:18:16,512 --> 00:18:18,347
+- Ay, Dios mío.
+- Despacio.
+
+356
+00:18:18,430 --> 00:18:19,306
+No.
+
+357
+00:18:39,701 --> 00:18:40,702
+Bueno.
+
+358
+00:18:42,246 --> 00:18:43,247
+Bueno.
+
+359
+00:18:44,164 --> 00:18:45,332
+- ¿Estás bien?
+- Sí.
+
+360
+00:18:45,999 --> 00:18:47,543
+Toma. Aquí está.
+
+361
+00:18:47,626 --> 00:18:48,627
+Gracias.
+
+362
+00:18:49,503 --> 00:18:50,629
+Toma uno.
+
+363
+00:18:51,839 --> 00:18:52,840
+Bueno.
+
+364
+00:18:54,174 --> 00:18:55,968
+Haz que se disuelva en tu boca.
+
+365
+00:18:59,638 --> 00:19:02,015
+- ¿Ves?
+- Sí, me gusta mascarlos.
+
+366
+00:19:02,850 --> 00:19:05,102
+- Muy bueno. Delicioso.
+- Delicioso.
+
+367
+00:19:05,185 --> 00:19:06,186
+Increíble.
+
+368
+00:19:07,312 --> 00:19:08,564
+Y barato.
+
+369
+00:19:10,107 --> 00:19:11,608
+Y es hielo del bueno.
+
+370
+00:19:11,692 --> 00:19:12,985
+Hola, gente.
+
+371
+00:19:13,068 --> 00:19:15,279
+- Hola.
+- Soy el Dr. Levin.
+
+372
+00:19:15,362 --> 00:19:17,614
+- Soy Natalie. Mi mamá.
+- Hola, Natalie.
+
+373
+00:19:17,698 --> 00:19:19,324
+- Hola. Donna.
+- Hola, Donna.
+
+374
+00:19:20,033 --> 00:19:21,702
+- ¿Quiere hielo?
+- No, gracias.
+
+375
+00:19:23,453 --> 00:19:26,331
+- Bueno, veamos cómo estamos aquí.
+- Bueno.
+
+376
+00:19:27,583 --> 00:19:29,126
+- Recuéstate más.
+- Bueno.
+
+377
+00:19:29,751 --> 00:19:31,170
+Bueno. Muy bien.
+
+378
+00:19:31,253 --> 00:19:33,505
+Ahora sentirás presión.
+
+379
+00:19:34,131 --> 00:19:35,174
+Bueno.
+
+380
+00:19:38,677 --> 00:19:41,180
+- Bueno.
+- Fabuloso.
+
+381
+00:19:41,263 --> 00:19:43,348
+- Todo luce fabuloso…
+- Gracias.
+
+382
+00:19:43,432 --> 00:19:46,602
+…pero estás dilatando
+apenas cinco o seis centímetros.
+
+383
+00:19:46,685 --> 00:19:47,811
+Bueno.
+
+384
+00:19:49,897 --> 00:19:52,357
+¿Y ahora qué?
+
+385
+00:19:52,441 --> 00:19:53,650
+Esperas.
+
+386
+00:19:53,734 --> 00:19:55,402
+Hay que ajustar el tocógrafo.
+
+387
+00:19:57,070 --> 00:19:58,488
+¿Y si no quiero esperar?
+
+388
+00:19:58,572 --> 00:20:01,700
+Ah. Bueno, oxitocina. Te hace…
+
+389
+00:20:03,952 --> 00:20:05,245
+- Sí.
+- Sí.
+
+390
+00:20:05,329 --> 00:20:08,373
+Bueno, podríamos probar con oxitocina.
+
+391
+00:20:08,457 --> 00:20:10,125
+O Pitocin.
+
+392
+00:20:10,209 --> 00:20:12,878
+¿Está preguntándome a mí
+si es buena idea o…?
+
+393
+00:20:12,961 --> 00:20:15,214
+No, es que depende de ti, Natalie.
+
+394
+00:20:15,297 --> 00:20:16,298
+Es tu cuerpo.
+
+395
+00:20:19,301 --> 00:20:25,599
+Si tuviera que calcular
+cuánto tiempo más llevará esto…
+
+396
+00:20:26,767 --> 00:20:29,311
+Bueno, lo que tenga que durar.
+
+397
+00:20:29,394 --> 00:20:32,105
+- <i>Dr. Levin.</i>
+- Un minuto.
+
+398
+00:20:32,189 --> 00:20:34,524
+- Soy Levin.
+- <i>Emergencia obstétrica en la dos</i>.
+
+399
+00:20:34,608 --> 00:20:36,401
+Bueno, voy en camino.
+
+400
+00:20:36,485 --> 00:20:41,281
+Enfermera Choe, hay un bebé en posición.
+Preparémonos para una cesárea urgente.
+
+401
+00:20:41,365 --> 00:20:42,991
+- Por favor, asista.
+- Sí.
+
+402
+00:20:47,746 --> 00:20:48,747
+Hemorragia posparto.
+
+403
+00:20:49,665 --> 00:20:51,166
+Trae el carro de hemorragia.
+
+404
+00:20:56,672 --> 00:20:57,673
+Mamá.
+
+405
+00:20:58,548 --> 00:20:59,758
+¿Sí?
+
+406
+00:20:59,841 --> 00:21:01,551
+Creo que quiero Pitocin.
+
+407
+00:21:02,094 --> 00:21:03,095
+Sí.
+
+408
+00:21:03,637 --> 00:21:05,889
+- ¿Sabes? Creo…
+- Sí.
+
+409
+00:21:05,973 --> 00:21:07,975
+…que es la mejor decisión.
+
+410
+00:21:08,058 --> 00:21:09,893
+Y tal vez una epidural también.
+
+411
+00:21:11,395 --> 00:21:13,105
+Sí. Buena idea.
+
+412
+00:21:26,368 --> 00:21:27,911
+Enfriaré mi mano.
+
+413
+00:21:27,995 --> 00:21:30,372
+La apoyo en la frente. Siente el alivio.
+
+414
+00:21:31,081 --> 00:21:32,207
+¿Te alivia?
+
+415
+00:21:32,833 --> 00:21:34,251
+- Sí.
+- ¿Sí?
+
+416
+00:21:37,004 --> 00:21:38,213
+Gracias, mamá.
+
+417
+00:21:47,431 --> 00:21:48,432
+¿Mamá?
+
+418
+00:21:54,146 --> 00:21:58,400
+¿Qué pensabas
+que yo no quería decirte antes?
+
+419
+00:22:11,788 --> 00:22:13,665
+Que no me querías a tu lado.
+
+420
+00:22:16,668 --> 00:22:17,753
+¿Tengo razón?
+
+421
+00:22:23,967 --> 00:22:27,721
+No quería todo eso que traes contigo.
+
+422
+00:22:31,975 --> 00:22:34,770
+Sí. Estoy intentando librarme de eso.
+
+423
+00:22:35,729 --> 00:22:36,730
+¿Sí?
+
+424
+00:22:38,482 --> 00:22:39,858
+¿Cómo resulta?
+
+425
+00:22:46,239 --> 00:22:47,699
+No es fácil.
+
+426
+00:22:50,869 --> 00:22:51,953
+Me imagino.
+
+427
+00:22:58,960 --> 00:23:00,420
+Me alegra que lo intentes.
+
+428
+00:23:01,004 --> 00:23:02,005
+A mí también.
+
+429
+00:23:28,949 --> 00:23:29,950
+Es solo que…
+
+430
+00:23:34,371 --> 00:23:37,666
+Mamá, no quiero
+que ella se asuste como yo me asustaba.
+
+431
+00:23:41,128 --> 00:23:42,379
+¿Yo te asustaba?
+
+432
+00:23:46,299 --> 00:23:47,926
+Nos asustabas a todos.
+
+433
+00:23:51,346 --> 00:23:52,889
+Eso es terrible.
+
+434
+00:23:56,184 --> 00:23:57,436
+Es demasiado.
+
+435
+00:24:04,109 --> 00:24:05,527
+No recuerdo a tu mamá.
+
+436
+00:24:14,411 --> 00:24:15,829
+Es mejor así.
+
+437
+00:24:33,597 --> 00:24:34,723
+Lo siento.
+
+438
+00:24:45,567 --> 00:24:48,528
+Siento que todos
+están siempre enojados conmigo.
+
+439
+00:24:51,865 --> 00:24:55,535
+Le pregunto demasiadas veces
+a la gente si está bien.
+
+440
+00:25:00,332 --> 00:25:04,127
+Si alguien se siente mal,
+empiezo a sentirme mal.
+
+441
+00:25:11,384 --> 00:25:12,594
+Me siento sola.
+
+442
+00:25:15,305 --> 00:25:16,389
+O fea.
+
+443
+00:25:19,601 --> 00:25:21,686
+O como que estoy en problemas.
+
+444
+00:25:27,776 --> 00:25:29,319
+Creo que Pete va a dejarme.
+
+445
+00:25:31,696 --> 00:25:33,240
+¿Por qué iba a dejarte?
+
+446
+00:25:34,741 --> 00:25:37,077
+Son cosas en las que pienso.
+
+447
+00:25:37,160 --> 00:25:39,120
+- Es irracional.
+- Lo pienso mucho.
+
+448
+00:25:39,204 --> 00:25:40,497
+- No.
+- Es irracional.
+
+449
+00:25:40,580 --> 00:25:42,415
+Bueno, pero también agotador.
+
+450
+00:25:47,671 --> 00:25:49,089
+Eres mi prioridad.
+
+451
+00:25:50,882 --> 00:25:52,008
+Siempre.
+
+452
+00:25:52,092 --> 00:25:53,093
+Qué dulce.
+
+453
+00:25:53,176 --> 00:25:55,845
+No, no es dulce. Es jodido, mamá.
+
+454
+00:25:58,765 --> 00:26:00,684
+Siempre trato de hacerte feliz.
+
+455
+00:26:03,812 --> 00:26:07,023
+Mamá, me desespero
+por hacerte sentir mejor.
+
+456
+00:26:08,108 --> 00:26:09,484
+- ¿Lo entiendes?
+- Sí.
+
+457
+00:26:09,568 --> 00:26:14,072
+Y no puedo perdonármelo, Sugar. No puedo.
+
+458
+00:26:16,199 --> 00:26:17,200
+Mamá…
+
+459
+00:26:19,786 --> 00:26:21,705
+Yo no te pido eso.
+
+460
+00:26:22,455 --> 00:26:23,623
+No necesito eso.
+
+461
+00:26:23,707 --> 00:26:24,708
+Es solo que…
+
+462
+00:26:26,626 --> 00:26:28,878
+Me preguntaste por qué no te lo dije.
+
+463
+00:26:38,888 --> 00:26:42,767
+No quiero que ella se sienta
+como yo me sentía.
+
+464
+00:26:43,893 --> 00:26:45,395
+No lo hará.
+
+465
+00:26:45,478 --> 00:26:47,772
+- No lo sabes.
+- Sí.
+
+466
+00:26:47,856 --> 00:26:49,274
+Lo sé.
+
+467
+00:27:00,285 --> 00:27:02,037
+- Tengo mucho miedo.
+- Lo sé.
+
+468
+00:27:07,876 --> 00:27:09,753
+Es demasiado.
+
+469
+00:27:09,836 --> 00:27:11,046
+Sí, claro.
+
+470
+00:27:14,966 --> 00:27:16,343
+Estoy aquí.
+
+471
+00:27:16,426 --> 00:27:17,844
+Quiero que ella esté bien.
+
+472
+00:27:17,927 --> 00:27:20,472
+Estará bien. Estará muy bien.
+
+473
+00:27:25,477 --> 00:27:28,104
+Y quiero ser buena. De verdad, ser buena.
+
+474
+00:27:28,188 --> 00:27:30,440
+Eres buena. Sí.
+
+475
+00:27:34,778 --> 00:27:36,946
+Quiero que ella esté bien. Solo eso.
+
+476
+00:27:37,030 --> 00:27:38,865
+- Estará bien.
+- Solo que esté bien.
+
+477
+00:27:39,658 --> 00:27:41,660
+- Ya.
+- Bueno.
+
+478
+00:27:41,743 --> 00:27:44,412
+Vamos.
+
+479
+00:27:53,963 --> 00:27:56,383
+Esto duele de verdad. Duele mucho.
+
+480
+00:27:56,466 --> 00:27:57,509
+Duele.
+
+481
+00:27:59,928 --> 00:28:00,929
+Descuida.
+
+482
+00:28:01,638 --> 00:28:05,475
+Necesito la epidural. Esto es jodido.
+
+483
+00:28:05,558 --> 00:28:07,185
+Ay, Dios mío.
+
+484
+00:28:09,771 --> 00:28:10,772
+Vamos, cariño.
+
+485
+00:28:33,336 --> 00:28:35,964
+- Lo haces muy bien.
+- Dios mío.
+
+486
+00:28:36,589 --> 00:28:38,800
+- Ya.
+- Bueno.
+
+487
+00:28:38,883 --> 00:28:40,135
+Ya, mamá.
+
+488
+00:28:40,218 --> 00:28:41,344
+Bueno.
+
+489
+00:28:42,011 --> 00:28:43,388
+Bueno.
+
+490
+00:28:43,471 --> 00:28:44,848
+Ay, Dios mío.
+
+491
+00:28:44,931 --> 00:28:45,974
+Bueno.
+
+492
+00:28:47,058 --> 00:28:48,727
+Hielo. Necesito un hielo.
+
+493
+00:28:48,810 --> 00:28:50,645
+Bueno, apoya la cabeza.
+
+494
+00:28:51,187 --> 00:28:52,230
+Ay, Dios mío.
+
+495
+00:28:52,731 --> 00:28:54,023
+Ten.
+
+496
+00:28:55,275 --> 00:28:56,526
+- Ten, cariño.
+- Sí.
+
+497
+00:28:58,862 --> 00:28:59,946
+Uno más.
+
+498
+00:29:00,780 --> 00:29:02,949
+- Me siento mucho mejor.
+- Bueno.
+
+499
+00:29:04,200 --> 00:29:05,702
+Gracias.
+
+500
+00:29:05,785 --> 00:29:07,036
+¿Te sientes bien?
+
+501
+00:29:07,662 --> 00:29:08,913
+Es un alivio.
+
+502
+00:29:15,044 --> 00:29:16,045
+Muy bien.
+
+503
+00:29:23,136 --> 00:29:24,471
+Esto es muy raro.
+
+504
+00:29:30,185 --> 00:29:32,228
+- Muy raro.
+- Dios mío.
+
+505
+00:29:33,188 --> 00:29:34,397
+Muy raro.
+
+506
+00:29:35,315 --> 00:29:36,733
+Muy raro.
+
+507
+00:29:39,235 --> 00:29:40,612
+Me alegra que estés aquí.
+
+508
+00:29:41,988 --> 00:29:43,114
+A mí también.
+
+509
+00:29:50,622 --> 00:29:51,748
+Háblame de mí.
+
+510
+00:29:53,792 --> 00:29:55,001
+¿A qué te refieres?
+
+511
+00:29:55,835 --> 00:29:57,045
+Al parto.
+
+512
+00:30:03,760 --> 00:30:05,053
+Fue hermoso.
+
+513
+00:30:05,804 --> 00:30:07,263
+- ¿En serio?
+- Sí.
+
+514
+00:30:07,347 --> 00:30:08,765
+Eras hermosa.
+
+515
+00:30:13,353 --> 00:30:16,689
+Todavía me faltaban unos días.
+
+516
+00:30:16,773 --> 00:30:20,735
+Y estaba sola en casa, no sé por qué.
+
+517
+00:30:20,819 --> 00:30:22,529
+No sé dónde estaba tu padre.
+
+518
+00:30:23,029 --> 00:30:25,990
+Pero estaba sola en casa, estaba feliz
+
+519
+00:30:27,575 --> 00:30:31,538
+porque iba a irme a la cama
+a las ocho de la noche, ¿sabes?
+
+520
+00:30:31,621 --> 00:30:32,956
+Eso era como…
+
+521
+00:30:33,039 --> 00:30:34,999
+Y recuerdo que me metí en la cama
+
+522
+00:30:35,750 --> 00:30:40,129
+y me dormí más pronto
+y más profundamente que nunca.
+
+523
+00:30:41,047 --> 00:30:44,843
+Y tuve un sueño
+realmente muy vívido, pero…
+
+524
+00:30:44,926 --> 00:30:48,096
+Uno de esos sueños
+en los que haces cosas comunes…
+
+525
+00:30:48,847 --> 00:30:50,849
+- Sí.
+- …pero con muchos detalles.
+
+526
+00:30:50,932 --> 00:30:51,933
+Sí.
+
+527
+00:30:52,684 --> 00:30:55,603
+En ese sueño tonto… Sí, un sueño tonto.
+
+528
+00:30:57,105 --> 00:31:00,859
+Me daban el día libre
+en ese trabajo que tenía,
+
+529
+00:31:00,942 --> 00:31:02,443
+porque estaba en la ciudad.
+
+530
+00:31:02,527 --> 00:31:04,779
+Y no era Chicago, no era Nueva York.
+
+531
+00:31:04,863 --> 00:31:07,574
+Era como una ciudad híbrida, ¿sabes?
+
+532
+00:31:07,657 --> 00:31:10,910
+Y había una pecera.
+
+533
+00:31:11,536 --> 00:31:14,789
+- ¿Una pecera?
+- Una pecera en medio de la ciudad.
+
+534
+00:31:14,873 --> 00:31:19,711
+Era una pecera gigante
+y yo era la única que estaba mirándola.
+
+535
+00:31:20,670 --> 00:31:23,631
+Era como una mega…
+
+536
+00:31:23,715 --> 00:31:29,053
+Era como una pecera grande
+como consultorio de dentista.
+
+537
+00:31:29,137 --> 00:31:32,599
+Y recuerdo que los colores eran…
+
+538
+00:31:32,682 --> 00:31:38,146
+Eran muy nítidos,
+vívidos y como de neón, ¿sabes?
+
+539
+00:31:38,646 --> 00:31:40,690
+Yo era la única que la veía.
+
+540
+00:31:41,774 --> 00:31:44,569
+Y estaba en la ciudad
+y la ciudad era toda gris.
+
+541
+00:31:45,486 --> 00:31:46,487
+Y era hermoso.
+
+542
+00:31:46,571 --> 00:31:50,241
+Y recuerdo que me quedé viéndola
+durante muchísimo tiempo.
+
+543
+00:31:50,325 --> 00:31:53,244
+Pasé muchísimo tiempo mirándola.
+
+544
+00:31:54,203 --> 00:31:57,624
+Y de pronto noté que el cristal
+
+545
+00:31:59,334 --> 00:32:02,629
+empezaba a agrietarse
+como si fuera a partirse.
+
+546
+00:32:02,712 --> 00:32:06,215
+Pero yo no estaba preocupada, ¿sabes?
+
+547
+00:32:06,299 --> 00:32:11,596
+No era algo malo
+porque yo sabía que más personas
+
+548
+00:32:11,679 --> 00:32:14,098
+iban a poder ver a ese pez hermoso.
+
+549
+00:32:15,892 --> 00:32:21,940
+Luego desperté y estaba sudando
+y había roto la bolsa de aguas.
+
+550
+00:32:23,274 --> 00:32:24,275
+Guau.
+
+551
+00:32:25,401 --> 00:32:28,571
+¿Sabes? Fui al hospital
+
+552
+00:32:28,655 --> 00:32:29,739
+y…
+
+553
+00:32:31,324 --> 00:32:33,201
+Y llegó la tía Gail.
+
+554
+00:32:33,785 --> 00:32:36,704
+La primera esposa de Jimmy,
+creo que no la conociste.
+
+555
+00:32:36,788 --> 00:32:38,122
+- ¿La conociste?
+- No sé.
+
+556
+00:32:38,206 --> 00:32:40,541
+- No. Fue su primera esposa.
+- Creo que vi fotos.
+
+557
+00:32:40,625 --> 00:32:42,168
+- Bueno.
+- Sí. Ella estaba.
+
+558
+00:32:42,251 --> 00:32:43,920
+Y era dulce, se sentó a mi lado.
+
+559
+00:32:44,545 --> 00:32:47,924
+Puso una canción hermosa
+
+560
+00:32:48,883 --> 00:32:50,468
+y…
+
+561
+00:32:53,846 --> 00:32:55,348
+Y luego Natalie.
+
+562
+00:32:58,476 --> 00:32:59,519
+Mamá.
+
+563
+00:33:13,032 --> 00:33:14,450
+Eres hermosa.
+
+564
+00:33:20,123 --> 00:33:21,207
+Gracias.
+
+565
+00:33:48,609 --> 00:33:49,819
+¿Qué canción?
+
+566
+00:33:52,238 --> 00:33:53,406
+Espera, por favor.
+
+567
+00:33:54,949 --> 00:33:56,075
+Espera, por favor.
+
+568
+00:33:57,493 --> 00:33:59,620
+Espera.
+
+569
+00:34:01,539 --> 00:34:02,790
+¿Quieres que te ayude?
+
+570
+00:34:02,874 --> 00:34:05,376
+No. Sé manejarlo.
+
+571
+00:34:05,460 --> 00:34:07,295
+- Bueno.
+- Espera.
+
+572
+00:35:06,729 --> 00:35:10,191
+<i>Nena, te amo</i>
+
+573
+00:35:10,900 --> 00:35:14,737
+<i>Nena, te amo</i>
+
+574
+00:35:18,157 --> 00:35:19,575
+Cariño.
+
+575
+00:35:19,659 --> 00:35:20,993
+- ¡Hola!
+- Hola.
+
+576
+00:35:22,745 --> 00:35:24,455
+- Ay, Dios.
+- Hola.
+
+577
+00:35:24,539 --> 00:35:26,874
+- Viniste.
+- Lamento llegar tarde.
+
+578
+00:35:27,542 --> 00:35:28,543
+¿Estás bien?
+
+579
+00:35:28,626 --> 00:35:30,878
+Sí. Estoy bien. Todo está bien.
+
+580
+00:35:30,962 --> 00:35:32,171
+Ay, Dios mío, cielo.
+
+581
+00:35:33,339 --> 00:35:34,841
+¿Cómo salió todo?
+
+582
+00:35:34,924 --> 00:35:37,468
+- Gané. Sí, gané.
+- ¡Guau!
+
+583
+00:35:38,302 --> 00:35:40,263
+- Es fabuloso.
+- Ay, Dios mío.
+
+584
+00:35:40,346 --> 00:35:41,389
+¿Estás bien?
+
+585
+00:35:41,472 --> 00:35:44,058
+- ¿Sí?
+- Estoy bien. Bien.
+
+586
+00:35:44,142 --> 00:35:47,603
+Estacioné en un lugar para discapacitados.
+Pero había espacio, lo moveré.
+
+587
+00:35:47,687 --> 00:35:49,814
+Dije: "¡Mi esposa va a tener un bebé!".
+
+588
+00:35:49,897 --> 00:35:51,858
+- Y el tipo dijo: "¡Ve!".
+- Sí.
+
+589
+00:35:52,775 --> 00:35:54,318
+Me alegra mucho que estés aquí.
+
+590
+00:36:05,705 --> 00:36:06,831
+DD.
+
+591
+00:36:14,755 --> 00:36:15,882
+Gracias.
+
+592
+00:36:22,805 --> 00:36:23,890
+Te quiero.
+
+593
+00:36:24,599 --> 00:36:25,892
+Yo también te quiero.
+
+594
+00:36:31,063 --> 00:36:32,190
+¿Qué hago?
+
+595
+00:36:37,904 --> 00:36:39,405
+Quédate a su lado.
+
+596
+00:36:41,866 --> 00:36:42,867
+Bueno.
+
+597
+00:37:19,820 --> 00:37:21,322
+Hola, Sra. B.
+
+598
+00:37:21,405 --> 00:37:22,573
+Hola.
+
+599
+00:37:22,657 --> 00:37:25,076
+- ¿Por qué tardaron?
+- Los teléfonos estaban apagados.
+
+600
+00:37:25,660 --> 00:37:27,620
+- Hola, Sra. Berzatto.
+- Hola.
+
+601
+00:37:27,703 --> 00:37:28,955
+¿Cómo estás?
+
+602
+00:37:30,414 --> 00:37:31,624
+¿Todos están bien?
+
+603
+00:37:33,876 --> 00:37:35,294
+Sí, espero.
+
+604
+00:37:42,885 --> 00:37:44,136
+Ahora eres abuela.
+
+605
+00:37:46,305 --> 00:37:48,057
+- Basta.
+- Eres abuela.
+
+606
+00:37:51,811 --> 00:37:53,729
+¿Te imaginas?
+
+607
+00:37:53,813 --> 00:37:55,231
+Lo harás bien.
+
+608
+00:37:55,731 --> 00:37:56,816
+- Sí.
+- Yo puedo.
+
+609
+00:37:58,567 --> 00:37:59,610
+Sí.
+
+610
+00:38:51,579 --> 00:38:53,581
+EL OSO
+
+611
+00:39:42,213 --> 00:39:44,215
+Subtítulos: Marcela Caressa
+

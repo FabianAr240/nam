@@ -1,0 +1,25 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/FabianAr240/nam/main/
+    subtitles: 
+      - season: 3
+        items:
+          - path: Oso/The.Bear.S03E01.Tomorrow.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 1
+          - path: Oso/The.Bear.S03E02.Next.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 2
+          - path: Oso/The.Bear.S03E03.Doors.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 3
+          - path: Oso/The.Bear.S03E04.Violet.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 4
+          - path: Oso/The.Bear.S03E05.Children.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 5
+          - path: Oso/The.Bear.S03E06.Napkins.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 6
+          - path: Oso/The.Bear.S03E07.Legacy.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 7
+          - path: Oso/The.Bear.S03E08.Ice.Chips.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 8
+          - path: Oso/The.Bear.S03E09.Apologies.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 9
+          - path: Oso/The.Bear.S03E10.Forever.1080p.DSNP.WEB-DL.DDP5.1.H.264.es-LA.srt
+            episode: 10
